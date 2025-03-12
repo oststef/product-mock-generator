@@ -1,0 +1,2144 @@
+[
+  {
+    "product_no": "1100000000",
+    "product_type": "SmartSwitch",
+    "name": "SmartSwitch X3: Dimmbar & Vernetzt",
+    "brand": "Hometics",
+    "price": 15.0,
+    "description": "Der SmartSwitch X3 von Hometics ist ein intelligenter Dimmer, der perfekt f\u00fcr die Vernetzung Ihrer Haustechnik geeignet ist. Er unterst\u00fctzt eine Vielzahl von Plattformen wie Apple Home Kit, Tuya, Google Home, IFTTT und Alexa, um Ihnen eine vollst\u00e4ndige Kontrolle \u00fcber Ihre Lichtanlagen zu bieten.\n\nMit seiner verf\u00fcgbaren Kommunikationsprotokollen Z-Wave, Thread und Wi-Fi kann der SmartSwitch X3 problemlos mit Ihren bestehenden Systemen integriert werden. Dank seiner vielf\u00e4ltigen Funktionen wie der Notwendigkeit einer neutralen Leitung, Unterst\u00fctzung f\u00fcr Deckenventilatoren und das Angebot von drei- bzw. zweipoliger Steuerung bietet er maximale Flexibilit\u00e4t in der Anpassung an Ihre individuellen Bed\u00fcrfnisse.\n\nZus\u00e4tzlich ist der SmartSwitch X3 nur bei einem Preis von 15,00 Euro eine wertvolle Erweiterung Ihres Heimnetzwerks.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Tuya",
+        "Google Home",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "WIFI"
+      ],
+      "style": "DIMMER",
+      "features": [
+        "NEUTRAL_WIRE_NEEDED",
+        "CEILING_FAN_SWITCH",
+        "THREE_WAY",
+        "TWO_POLE",
+        "LOCAL_ONLY_AVAILABLE"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000001",
+    "product_type": "SmartSwitch",
+    "name": "Orbital Home SmartSwitch: Intelligent Lichtsteuerung f\u00fcr jedes Zuhause",
+    "brand": "Orbital Home",
+    "price": 22.99,
+    "description": "Das Orbital Home SmartSwitch ist die perfekte L\u00f6sung f\u00fcr eine intelligente Lichtsteuerung in Ihrem Zuhause. Mit dieser fortschrittlichen Technologie k\u00f6nnen Sie Ihre Beleuchtung einfach und effizient \u00fcber Plattformen wie Home Assistant, Alexa, Hubitat oder Matter steuern.\n\nDas SmartSwitch bietet eine Vielzahl von Kommunikationsprotokollen an, einschlie\u00dflich Z-WAVE, ZIGBEE und MATTER, um sicherzustellen, dass es mit Ihren bestehenden Systemen kompatibel ist. Die modulare Architektur erm\u00f6glicht es Ihnen, Ihre Steuerung einfach zu erweitern oder anzupassen.\n\nEin besonderes Highlight des Orbital Home SmartSwitch ist seine F\u00e4higkeit, lokal zu funktionieren, ohne eine Internetverbindung ben\u00f6tigen zu m\u00fcssen. Zudem bietet das Produkt eine intuitive Bedienung und kann sogar automatisch reagieren, wenn Bewegungen erfasst werden.\n\nDas Orbital Home SmartSwitch ist ideal f\u00fcr die Steuerung von Lichtern in jedem Raum Ihres Hauses. Dank seiner Vielseitigkeit und Kompatibilit\u00e4t mit verschiedenen Plattformen bietet es Ihnen die Flexibilit\u00e4t, Ihre Beleuchtung auf Ihre individuellen Bed\u00fcrfnisse anzupassen.\n\nMit dem Orbital Home SmartSwitch k\u00f6nnen Sie Ihre Beleuchtung nicht nur intelligenter gestalten, sondern auch Ihren Energieverbrauch senken und Ihr Zuhause sicherer machen. Erfahren Sie mehr \u00fcber die vielf\u00e4ltigen Funktionen dieses innovativen Produkts und beginnen Sie jetzt, Ihre Lichtsteuerung auf ein neues Niveau zu heben!",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Alexa",
+        "Hubitat",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "style": "DIMMER",
+      "features": [
+        "LOCAL_ONLY_AVAILABLE",
+        "CEILING_FAN_SWITCH",
+        "MOTION_ACTIVATED"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000002",
+    "product_type": "SmartSwitch",
+    "name": "IntelliHome Smart Switch 3.0",
+    "brand": "Orbital Home",
+    "price": 29.99,
+    "description": "Die IntelliHome Smart Switch 3.0 von Orbital Home ist eine fortschrittliche Steuerung, die mit verschiedenen Plattformen wie IFTTT, Alexa und Apple Home Kit kompatibel ist. Sie unterst\u00fctzt verschiedene Kommunikationsprotokolle wie Z-Wave, Thread, WiFi und Bluetooth. Mit ihrer vielseitigen Funktionen wie Beleuchtungssteuerung f\u00fcr Deckenventilatoren, Dreiphasengesteuert, Bewegungsgesteuert und Dreipolig ist sie perfekt f\u00fcr unterschiedliche Anwendungsszenarien geeignet.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "Alexa",
+        "Apple Home Kit"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "WIFI",
+        "BLUETOOTH"
+      ],
+      "style": "SWITCH",
+      "features": [
+        "CEILING_FAN_SWITCH",
+        "THREE_WAY",
+        "MOTION_ACTIVATED",
+        "THREE_POLE"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000003",
+    "product_type": "SmartSwitch",
+    "name": "Hometics Smart Switch Next - DIMMER Edition",
+    "brand": "Hometics",
+    "price": 15.0,
+    "description": "Das Hometics Smart Switch Next in der DIMMER Edition ist ein vielseitiges und kraftvolles Ger\u00e4t, das Ihre Heimbetreuung revolutionieren wird. Es ist perfekt f\u00fcr alle, die nach einer verl\u00e4sslichen L\u00f6sung suchen, um Ihren Raum bequem zu gestalten. Mit seiner einfachen Bedienung kann man mit einem Tastendruck den Helligkeitsgrad anpassen.\n\nDas Ger\u00e4t unterst\u00fctzt verschiedene Plattformen wie Home Assistant, Apple Home Kit, Matter, Google Home und SmartThings. Dies erm\u00f6glicht eine umfassende Steuerung von Ihrem Smartphone oder Tablet aus. Dar\u00fcber hinaus ist es mit wichtigen Kommunikationsprotokollen wie Z-Wave, Thread, WiFi und Matter kompatibel.\n\nDie besonderen Funktionen des Hometics Smart Switch Next in der DIMMER Edition sind vielf\u00e4ltig. So k\u00f6nnen Sie ohne Neutralleiter arbeiten oder drei Wege ansprechen. Die Ger\u00e4teauswahl ist also flexibel. Mit diesem Smart Switch haben Sie die volle Kontrolle \u00fcber Ihr Zuhause und k\u00f6nnen jederzeit nach Ihren Vorlieben abstimmen.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Matter",
+        "Google Home",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "WIFI",
+        "MATTER"
+      ],
+      "style": "DIMMER",
+      "features": [
+        "NEUTRAL_WIRE_NEEDED",
+        "THREE_WAY",
+        "NO_NEUTRAL_WIRE_NEEDED"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000004",
+    "product_type": "SmartSwitch",
+    "name": "SmartSwitch Evolution: Orbitschalter 2.0",
+    "brand": "Orbital Home",
+    "price": 22.99,
+    "description": "Der Orbital Home SmartSwitch Evolution: Orbitschalter 2.0 ist ein fortschrittliches Ger\u00e4t, das die Steuerung Ihres Hauses auf eine neue Ebene bringt. Mit seiner Vielseitigkeit und modernen Technologie sorgt er f\u00fcr eine optimale Kontrolle \u00fcber Ihre Licht- und Ger\u00e4tesysteme.\n\nDer SmartSwitch Evolution unterst\u00fctzt eine Vielzahl von Plattformen wie Apple Home Kit, Matter, Hubitat, IFTTT und Alexa, damit Sie Ihr Zuhause nach Ihren Bed\u00fcrfnissen konfigurieren k\u00f6nnen. Dar\u00fcber hinaus erm\u00f6glicht er die Kommunikation \u00fcber WIFI, THREAD, MATTER, ZIGBEE und BLUETOOTH.\n\nDieses innovative Ger\u00e4t bietet eine Vielzahl an Funktionen wie NEUTRAL_WIRE_NEEDED, MOTION_ACTIVATED, THREE_WAY und TWO_POLE. Dadurch kann es leicht in verschiedenen Umgebungen und Anforderungen eingesetzt werden, sei es f\u00fcr die Steuerung einzelner Lampen oder f\u00fcr komplexe Hausautomatisierungssysteme.\n\nDer Orbital Home SmartSwitch Evolution: Orbitschalter 2.0 ist ein musterg\u00fcltiger Ersatz f\u00fcr Ihren alten Schalter. Mit seinem attraktiven Design und seiner Leistungsf\u00e4higkeit sorgt er daf\u00fcr, dass Ihre Licht- und Ger\u00e4tesysteme wie nie zuvor funktionieren.\n\nZum Preis von 22,99 \u20ac bietet dieser SmartSwitch Evolution eine optimale Kombination aus Funktionen, Kompatibilit\u00e4t und preiswertem Kauf.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Matter",
+        "Hubitat",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "THREAD",
+        "MATTER",
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "style": "SWITCH",
+      "features": [
+        "NEUTRAL_WIRE_NEEDED",
+        "MOTION_ACTIVATED",
+        "THREE_WAY",
+        "NO_NEUTRAL_WIRE_NEEDED",
+        "TWO_POLE"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000005",
+    "product_type": "SmartSwitch",
+    "name": "Orbital Home SmartSwitch 2.0: Intelligente Dimmer f\u00fcr zukunftssichere Heimsteuerung",
+    "brand": "Orbital Home",
+    "price": 22.99,
+    "description": "Der Orbital Home SmartSwitch 2.0 ist ein intelligenter Dimmer, der eine zukunftssichere Heimsteuerung erm\u00f6glicht. Er unterst\u00fctzt Plattformen wie Google Home und Alexa sowie die Matter-Plattform f\u00fcr eine sichere und konsistente Steuerung Ihres Heims.\n\nDank seiner Vielseitigkeit kann er sowohl \u00fcber Z-WAVE als auch \u00fcber THREAD, BLUETOOTH, ZIGBEE und MATTER kommunizieren. Der SmartSwitch 2.0 ist ideal f\u00fcr den Einsatz an Deckenventilatoren geeignet und unterst\u00fctzt die Verwendung von zwei Polen.\n\nZur vollst\u00e4ndigen Funktion ben\u00f6tigt er eine neutrale Leitung und bietet nur lokale Steuerungsm\u00f6glichkeiten. Mit diesem intelligenten Dimmer k\u00f6nnen Sie Ihre Heimsteuerung auf das n\u00e4chste Level bringen.",
+    "classification": {
+      "platforms": [
+        "Google Home",
+        "Alexa",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "BLUETOOTH",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "style": "DIMMER",
+      "features": [
+        "NEUTRAL_WIRE_NEEDED",
+        "LOCAL_ONLY_AVAILABLE",
+        "CEILING_FAN_SWITCH",
+        "TWO_POLE"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000006",
+    "product_type": "SmartSwitch",
+    "name": "CasaCore Neo 1 - Die intelligente Lichtschalter Revolution",
+    "brand": "CasaCore",
+    "price": 15.0,
+    "description": "Das CasaCore Neo 1 ist ein intelligenter Lichtschalter, der die Revolution in Ihrem Zuhause anf\u00fchrt. Mit seiner einzigartigen Technologie bietet er eine Vielzahl von M\u00f6glichkeiten, um Ihr Leben zu vereinfachen. Als SmartSwitch kann er mit verschiedenen Plattformen wie Home Assistant, Matter, Tuya, IFTTT und Alexa kommunizieren.\n\nDer Lichtschalter verf\u00fcgt \u00fcber verschiedene Kommunikationsprotokolle wie Z-WAVE, THREAD, WIFI, BLUETOOTH und MATTER, um sicherzustellen, dass er immer mit Ihrem System verbunden ist. Mit seiner einfachen Design-Form ist er in jeden Raum passend und bietet eine elegante L\u00f6sung f\u00fcr Ihre Lichtbed\u00fcrfnisse.\n\nEin weiterer Vorteil des CasaCore Neo 1 ist, dass keine neutrale Leitung notwendig ist und er automatisch aktiviert wird, wenn Sie den Raum betreten. Dies macht ihn zu einem idealen Partner f\u00fcr Ihr Zuhause und bietet Ihnen die M\u00f6glichkeit, Ihre Lichtanordnung mit einer einfachen Handbewegung oder Sprachkommando anzusteuern.\n\nDie Kombination aus innovativer Technologie und modernem Design machen das CasaCore Neo 1 zum perfekten L\u00f6sungswert f\u00fcr Ihre Anforderungen.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Matter",
+        "Tuya",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "WIFI",
+        "BLUETOOTH",
+        "MATTER"
+      ],
+      "style": "SWITCH",
+      "features": [
+        "NO_NEUTRAL_WIRE_NEEDED",
+        "MOTION_ACTIVATED"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000007",
+    "product_type": "SmartSwitch",
+    "name": "SmartSwitch Pro X",
+    "brand": "CasaCore",
+    "price": 50.0,
+    "description": "Das CasaCore SmartSwitch Pro X ist ein fortschrittliches intelligentes Schaltger\u00e4t, das mit verschiedenen Plattformen wie IFTTT, Tuya und Hubitat kompatibel ist. Es unterst\u00fctzt den Z-Wave und Zigbee-Protokoll, sodass eine einfache Integration in Ihre bestehende smarte Heimautomatisierung m\u00f6glich ist.\n\nMit seiner kompakt-klassischen Ausf\u00fchrung (STYLUS) passt es sich nahtlos in jede moderne Einrichtung ein. Der hervorragende Preis von 50,00 \u20ac macht es zu einer preiswerten L\u00f6sung f\u00fcr alle Smart-Home-Anf\u00e4nger und Fortgeschrittenen gleicherma\u00dfen.\n\nDurch die lokale Verf\u00fcgbarkeit (LOCAL_ONLY_AVAILABLE) kann der SmartSwitch Pro X bei einem Stromausfall immer noch seine Funktionen erf\u00fcllen. Dar\u00fcber hinaus verf\u00fcgt das Produkt \u00fcber drei Pole, was bedeutet, dass es eine breite Palette an Anwendungsm\u00f6glichkeiten bietet.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "Tuya",
+        "Hubitat"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "ZIGBEE"
+      ],
+      "style": "SWITCH",
+      "features": [
+        "LOCAL_ONLY_AVAILABLE",
+        "THREE_POLE"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000008",
+    "product_type": "SmartSwitch",
+    "name": "Intuit SmartSwitch Generation 1 f\u00fcr den intelligenten Zuhause-Anschluss",
+    "brand": "Intuit Home",
+    "price": 22.99,
+    "description": "Der Intuit SmartSwitch Generation 1 ist ein intelligenter Heimanschluss, der von der Marke Intuit Home entwickelt wurde. Er unterst\u00fctzt die Plattformen Home Assistant und SmartThings und kommuniziert \u00fcber das THREAD- bzw. ZIGBEE-Protokoll. Bei diesem Produkt handelt es sich um einen einfachen Schalter mit einem neutralen Drahtanschluss, der nur lokal bedienbar ist und zwei Polen hat. Der Preis dieses Produkts liegt bei 22,99 Euro.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "THREAD",
+        "ZIGBEE"
+      ],
+      "style": "SWITCH",
+      "features": [
+        "NEUTRAL_WIRE_NEEDED",
+        "LOCAL_ONLY_AVAILABLE",
+        "TWO_POLE"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000009",
+    "product_type": "SmartSwitch",
+    "name": "Orbital Home Connect X3",
+    "brand": "Orbital Home",
+    "price": 22.99,
+    "description": "Das Orbital Home Connect X3 ist ein fortschrittlicher SmartSwitch, der von der Marke Orbital Home entwickelt wurde. Er kann auf verschiedenen Plattformen wie SmartThings, Hubitat und Matter eingesetzt werden, was eine hohe Flexibilit\u00e4t erm\u00f6glicht.\n\nMit seiner Unterst\u00fctzung f\u00fcr Z-WAVE-, ZIGBEE- und MATTER-Basis gibt er Ihnen die M\u00f6glichkeit, Ihre Ger\u00e4te effizient zu verwalten und zu steuern. Das Produkt bietet zahlreiche Funktionen wie die Verarbeitung von Neutraldr\u00e4hten, die M\u00f6glichkeit zur Dreiwegeansteuerung und -steuerung mit drei Polen sowie eine Zweis-Pol-Steuerung.\n\nMit einem Preis von 22,99\u20ac ist das Orbital Home Connect X3 ein kosteneffizientes Produkt f\u00fcr alle, die nach einer robusten und zuverl\u00e4ssigen SmartSwitch L\u00f6sung suchen.",
+    "classification": {
+      "platforms": [
+        "SmartThings",
+        "Hubitat",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "style": "SWITCH",
+      "features": [
+        "NEUTRAL_WIRE_NEEDED",
+        "THREE_WAY",
+        "THREE_POLE",
+        "TWO_POLE"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000010",
+    "product_type": "SmartBulb",
+    "name": "EcoCycle Pro S1",
+    "brand": "FerroSync",
+    "price": 22.99,
+    "description": "Das FerroSync EcoCycle Pro S1 ist eine intelligente Steckdosenleuchte, die mit einer Vielzahl von Plattformen wie IFTTT, Google Home, Tuya und SmartThings kompatibel ist. Sie unterst\u00fctzt Kommunikationsprotokolle wie WIFI, ZIGBEE und MATTER. Die Leuchte bietet ein wei\u00dfes Licht mit einer Farbtemperatur von 2700 Kelvin.\n\nMit ihrer integrierten Bewegungssensorfunktion kann sie automatisch eingeschaltet werden, wenn Sie in die Raum betreten. Der E40-Sockel erm\u00f6glicht eine einfache Montage. Die EcoCycle Pro S1 zeichnet sich durch ihre hohe Energieeffizienzklasse A aus und bietet eine Lebensdauer von 10.000 Stunden bei einer Leuchtdauer von nur 500 Watt.\n\nEinige Funktionen erfordern einen Hub, jedoch sind alle grundlegenden Funktionen auch ohne zus\u00e4tzlichen Hub verf\u00fcgbar. Der Preis f\u00fcr das FerroSync EcoCycle Pro S1 liegt bei 22,99 Euro.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "Google Home",
+        "Tuya",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E40",
+      "energy_efficiency_class": "A",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 10000,
+      "wattage": 10,
+      "brightness": 500,
+      "color_temp": 2700
+    }
+  },
+  {
+    "product_no": "1100000011",
+    "product_type": "SmartBulb",
+    "name": "SmartBulb FerroSync X - RGB MotionSense",
+    "brand": "FerroSync",
+    "price": 22.99,
+    "description": "Die SmartBulb FerroSync X - RGB MotionSense ist ein innovatives Lichtsystem von der Marke FerroSync. Mit einem Preis von 22,99 Euro bietet es eine vielf\u00e4ltige Steuerung auf verschiedenen Plattformen wie IFTTT, SmartThings, Alexa und Tuya. Zus\u00e4tzlich unterst\u00fctzt sie verschiedene Kommunikationsprotokolle wie Z-WAVE, WIFI, ZIGBEE und THREAD.\n\nDie Bulb besitzt ein breites Lichtspektrum in RGB-Farben und kann in einem G9-Steckdosenanschluss eingesteckt werden. Sie ist mit der Energiesparklasse F klassifiziert, was bedeutet, dass sie eine hohe Energieeffizienz aufweist.\n\nEin besonderer Vorteil der SmartBulb FerroSync X - RGB MotionSense ist ihr integrierter Bewegungssensor. Dieser erm\u00f6glicht eine automatische Lichtver\u00e4nderung und spart so Energie.\n\nEinige Funktionen erfordern f\u00fcr ihren Betrieb einen Hub. Die Bulb hat eine Lebensdauer von 25.000 Betriebsstunden bei einer Leistung von 8 Watt und kann eine Helligkeit von bis zu 800 Lux erreichen.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "SmartThings",
+        "Alexa",
+        "Tuya"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "ZIGBEE",
+        "THREAD"
+      ],
+      "light_color": "RGB",
+      "socket": "G9",
+      "energy_efficiency_class": "F",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 25000,
+      "wattage": 8,
+      "brightness": 800,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000012",
+    "product_type": "SmartBulb",
+    "name": "CasaCore MotionSensor E27 A-Klasse",
+    "brand": "CasaCore",
+    "price": 8.0,
+    "description": "Das CasaCore MotionSensor E27 A-Klasse ist eine intelligente Steckdose von der Marke CasaCore. Diese Steckdose unterst\u00fctzt verschiedene Plattformen wie Hubitat, Tuya, SmartThings und Alexa. Sie kommuniziert \u00fcber Z-Wave, Zigbee oder Matter-Protokolle und erfordert keinen separaten Hub.\n\nDiese E27-Klemmsteckdose leuchtet in Wei\u00df und bietet eine effektive Lichtausbeute der Klasse A. Dank integrierten Bewegungssensoren kann die Steckdose automatisch einschalten oder ausschalten, sobald Bewegungen detektiert werden.\n\nMit einer Leuchtdauer von 15.000 Stunden verspricht sie eine lange und wartungsfreie Lebensdauer. Die optimale Lichtst\u00e4rke betr\u00e4gt 500 lm bei einer Wattage von nur 6 W. Die Farbtemperatur liegt bei 2700 K, was sich gut f\u00fcr Wohnr\u00e4ume eignet.",
+    "classification": {
+      "platforms": [
+        "Hubitat",
+        "Tuya",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E27",
+      "energy_efficiency_class": "A",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 15000,
+      "wattage": 6,
+      "brightness": 500,
+      "color_temp": 2700
+    }
+  },
+  {
+    "product_no": "1100000013",
+    "product_type": "SmartBulb",
+    "name": "SmartLicht f\u00fcr CasaCore: E27 Motion Sensor mit Wei\u00dflicht",
+    "brand": "CasaCore",
+    "price": 18.99,
+    "description": "Das CasaCore-Produkt SmartLicht E27 Motion Sensor mit Wei\u00dflicht ist eine innovative L\u00f6sung f\u00fcr ein effizientes und bequemes Lichtmanagement in Ihrem Zuhause. Mit der Integration in verschiedene Plattformen wie Apple Home Kit, Tuya, IFTTT und SmartThings k\u00f6nnen Sie Ihre Lichtbed\u00fcrfnisse leicht \u00fcber die CasaCore-App steuern.\n\nDer Motion Sensor erkennt automatisch Ihren Bewegungsrhythmus und passt das Licht entsprechend an. Dank der verschiedenen Kommunikationsprotokolle Z-WAVE, ZIGBEE und MATTER gew\u00e4hrleisten wir eine sichere und stabilisierte Verbindung zu Ihrem Heimnetzwerk.\n\nDas Produkt besitzt die Eigenschaft eines WHITE-Lichts mit einer Helligkeit von 900 Lumen und ist f\u00fcr den Einbau in einen E27-Sockel geeignet. Mit einer Energieeffizienzklasse B spart Sie, ohne Kompromisse hinsichtlich der Lichtintensit\u00e4t.\n\nZusammenfassend bietet das CasaCore-Produkt eine umfassende L\u00f6sung f\u00fcr Ihre Lichtbed\u00fcrfnisse: Automatisierung, Effizienz und bequemes Handling.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Tuya",
+        "IFTTT",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E27",
+      "energy_efficiency_class": "B",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 15000,
+      "wattage": 60,
+      "brightness": 900,
+      "color_temp": 4000
+    }
+  },
+  {
+    "product_no": "1100000014",
+    "product_type": "SmartBulb",
+    "name": "Hometics Motion White",
+    "brand": "Hometics",
+    "price": 8.0,
+    "description": "Das Hometics Motion White ist eine intelligente SmartBulb von der Marke Hometics. Mit einer Lichtfarbe in Wei\u00df bietet diese Bulb eine angenehme Beleuchtung f\u00fcr Ihr Zuhause. Durch die Unterst\u00fctzung verschiedener Plattformen wie Home Assistant, Google Home und Apple Home Kit k\u00f6nnen Sie Ihre Beleuchtung individuell steuern und anpassen. \n\nDie Kommunikation mit der SmartBulb erfolgt \u00fcber WIFI oder ZIGBEE Protokoll, um eine sichere und schnelle Verbindung zu gew\u00e4hrleisten. Mit einer Leistung von nur 12 Watt ben\u00f6tigt diese Bulb weniger Energie als herk\u00f6mmliche Gl\u00fchbirnen, was sie f\u00fcr ein energiesparendes Zuhause perfekt macht.\n\nDie Besonderheit dieser SmartBulb liegt in ihrer F\u00e4higkeit, sich automatisch an die Umgebungslichtverh\u00e4ltnisse anzupassen und nur dann zu leuchten, wenn Bewegung erkannt wird. Daher eignet sie sich ideal f\u00fcr Energieeffizienz und Komfort im Zuhause.\n\nDiese Bulb erfordert keine Hub-Unterst\u00fctzung, was eine einfache Installation erm\u00f6glicht. Mit einer Langlebigkeit von 20.000 Stunden ist sie ein langlebiges Produkt, das Sie \u00fcber einen l\u00e4ngeren Zeitraum nutzen k\u00f6nnen.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Google Home",
+        "IFTTT",
+        "Apple Home Kit"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE"
+      ],
+      "light_color": "WHITE",
+      "socket": "E12",
+      "energy_efficiency_class": "C",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 20000,
+      "wattage": 12,
+      "brightness": 500,
+      "color_temp": 3000
+    }
+  },
+  {
+    "product_no": "1100000015",
+    "product_type": "SmartBulb",
+    "name": "SmartLichteffekte f\u00fcr dein Zuhause - Generation 1 von Intuit Home SmartBulb",
+    "brand": "Intuit Home",
+    "price": 8.0,
+    "description": "Die Intuit Home SmartBulb ist eine innovative Leuchte, die mit der Generation 1 von Intuit Home entwickelt wurde. Mit dieser smarten Bulbe k\u00f6nnen Sie Ihre Lichteffekte im Zuhause individuell anpassen und optimieren.\n\nVerf\u00fcgt \u00fcber die Unterst\u00fctzung f\u00fcr verschiedene Plattformen wie Apple Home Kit, Tuya, Hubitat, Google Home und SmartThings, was eine einfache Integration in Ihr bestehendes Smart-Home-System erm\u00f6glicht. Die Kommunikation zwischen der Bulbe und Ihren Ger\u00e4ten erfolgt durch verschiedene Protokolle wie WIFI, ZIGBEE, THREAD und BLUETOOTH.\n\nMit einer Energieeffizienzklasse von B wird Energie sparsam verbraucht, was Ihre Umweltfreundlichkeit erh\u00f6ht. Die Leuchte ist mit 8 Watt sehr effizient und erm\u00f6glicht ein hohes Lichtausgangsma\u00df von 900 Lux.\n\nDie SmartBulb bietet Ihnen viele M\u00f6glichkeiten, Ihre Wohnr\u00e4ume zu gestalten. Mit der Funktion LIGHTING_EFFECTS k\u00f6nnen Sie verschiedene Effekte erstellen und Ihre Umgebung noch individueller gestalten. F\u00fcr einige Funktionen ist jedoch ein Hub erforderlich. Die Lebensdauer dieser Bulbe betr\u00e4gt 30.000 Stunden, was eine lange Haltbarkeit bedeutet.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Tuya",
+        "Hubitat",
+        "Google Home",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE",
+        "THREAD",
+        "BLUETOOTH"
+      ],
+      "light_color": "RGB",
+      "socket": "E40",
+      "energy_efficiency_class": "B",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 30000,
+      "wattage": 8,
+      "brightness": 900,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000016",
+    "product_type": "SmartBulb",
+    "name": "SmartBulb Orbital Home Edition E",
+    "brand": "Orbital Home",
+    "price": 13.99,
+    "description": "Die SmartBulb Orbital Home Edition E von Orbital Home ist eine intelligente LED-Lampe, die mit verschiedenen Sprachassistenten wie Apple Home Kit, Matter, Google Home, SmartThings und Alexa kompatibel ist. Durch die Verwendung des WIFI-, THREAD- oder BLUETOOTH-Protokolls k\u00f6nnen Sie Ihre Lampe einfach \u00fcber Ihr Smartphone oder Tabelle steuern.\n\nMit einer Energieeffizienzklasse von \"E\" spart die SmartBulb Orbital Home Edition E nicht nur Strom, sondern auch Kosten. Die Lampe ist mit einer Leuchtdauer von 30.000 Stunden sehr zuverl\u00e4ssig und bietet eine Helligkeit von 600 Lux.\n\nDie SmartBulb Orbital Home Edition E hat einen E14-Anschluss und kann in fast jedem Lichtschalter verwendet werden. Eine besondere Eigenschaft ist der integrierte Bewegungssensor, der die Lampe automatisch einschaltet oder ausschaltet, wenn Sie ein Raum betreten oder verlassen.\n\nDa keine Hub-Installation erforderlich ist, k\u00f6nnen Sie die SmartBulb Orbital Home Edition E sofort nach dem Kauf in Betrieb nehmen.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Matter",
+        "Google Home",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "THREAD",
+        "BLUETOOTH"
+      ],
+      "light_color": "WHITE",
+      "socket": "E14",
+      "energy_efficiency_class": "E",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 30000,
+      "wattage": 8,
+      "brightness": 600,
+      "color_temp": 6000
+    }
+  },
+  {
+    "product_no": "1100000017",
+    "product_type": "SmartBulb",
+    "name": "\"Orbital Home SmartBulb Revolution RGB G9 Motion Sensor\"",
+    "brand": "Orbital Home",
+    "price": 22.99,
+    "description": "Entdecken Sie die Innovation von Orbital Home mit der SmartBulb Revolution RGB G9 Motion Sensor. Diese intelligente Lampe bietet eine Vielzahl an Funktionen und ist aufgrund ihrer Energieeffizienz-Klasse A ein umweltfreundliches Produkt. Mit einer Lebensdauer von 20.000 Stunden bietet sie langlebiges Licht f\u00fcr Ihr Zuhause.\n\nVerf\u00fcgt \u00fcber farbliche Helligkeit mit bis zu 500 Lux und kann dank Matter-Technologie und WiFi-Vernetzung ohne Hub betrieben werden. Die SmartBulb Revolution ist ein perfektes Zusammenspiel mit beliebten Plattformen wie Home Assistant, IFTTT, Hubitat und Tuya.\n\nDie G9-Sockelgestaltung erm\u00f6glicht eine einfache Installation in Ihrem Zuhause. Mit der integrierten Bewegungssensorfunktion schalten Sie Ihre Lampe nur dann ein, wenn sie ben\u00f6tigt wird. Die SmartBulb Revolution ist die ideale Wahl f\u00fcr alle, die nach einem intelligenten und effizienten Lichtsucher suchen.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "IFTTT",
+        "Hubitat",
+        "Tuya"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "MATTER"
+      ],
+      "light_color": "RGB",
+      "socket": "G9",
+      "energy_efficiency_class": "A",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 20000,
+      "wattage": 12,
+      "brightness": 500,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000018",
+    "product_type": "SmartBulb",
+    "name": "\"Intuit Luxea G\"",
+    "brand": "Intuit Home",
+    "price": 29.99,
+    "description": "Das Intuit Luxea G ist eine intelligente Gl\u00fchbirne von Intuit Home. Sie bietet eine Vielzahl von Funktionen und kann \u00fcber verschiedene Plattformen wie Home Assistant, Apple Home Kit oder Google Home kontrolliert werden. Die SmartBulb unterst\u00fctzt mehrere Kommunikationsprotokolle wie THREAD, ZIGBEE, MATTER oder BLUETOOTH.\n\nDie Gl\u00fchbirne ist in RGB-Farbe verf\u00fcgbar und passt sich mit ihrem E40-Stecker in jede Standardlampe ein. Sie erf\u00fcllt die Energiesparklasse G und weist eine Leistung von 6 Watt auf. Die Helligkeit der Lampe betr\u00e4gt 500 Lux, was f\u00fcr den t\u00e4glichen Gebrauch ausreichend ist.\n\nEin weiterer Vorteil des Intuit Luxea G ist seine integrierte Bewegungssensorfunktion, die automatisch Licht ein- und ausschaltet. Zudem ben\u00f6tigt diese Gl\u00fchbirne keine separates Hub-Ger\u00e4t, um online zu sein. Die Lebensdauer der Lampe betr\u00e4gt 10.000 Stunden. F\u00fcr einen Preis von 29,99 Euro bietet das Intuit Luxea G eine attraktive Kombination aus Funktionen und Ausstattung.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Hubitat",
+        "Google Home",
+        "IFTTT",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "THREAD",
+        "ZIGBEE",
+        "MATTER",
+        "BLUETOOTH"
+      ],
+      "light_color": "RGB",
+      "socket": "E40",
+      "energy_efficiency_class": "G",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 10000,
+      "wattage": 6,
+      "brightness": 500,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000019",
+    "product_type": "SmartBulb",
+    "name": "SmartLumen Essentials E14",
+    "brand": "Intuit Home",
+    "price": 13.99,
+    "description": "Das SmartLumen Essentials E14 von Intuit Home ist eine intelligente Gl\u00fchbirne, die sich einfach in Ihre bestehende Beleuchtung integrieren l\u00e4sst. Mit einer Energieeffizienzklasse D bietet sie ein energiesparendes und umweltfreundliches Design.\n\nDie SmartBulb unterst\u00fctzt verschiedene Plattformen wie Apple Home Kit, Matter, Tuya, Hubitat und IFTTT, sodass Sie Ihre Beleuchtung einfach \u00fcber Ihr Smartphone steuern k\u00f6nnen. Die Kommunikation erfolgt \u00fcber BLUETOOTH, Z-WAVE oder MATTER, je nachdem welche Funktion ben\u00f6tigt wird.\n\nMit einer Helligkeit von 500 Lux und einer Farbtemperatur von 2700 Kelvin bietet die SmartLumen Essentials E14 eine warme und einladende Beleuchtung. Die Gl\u00fchbirne ist mit einer Langlebigkeit von 15.000 Stunden ausgestattet, was bedeutet, dass sie langfristig energiesparend und nachhaltig ist.\n\nDie SmartBulb unterst\u00fctzt auch Lichteffekte, die Sie mithilfe Ihres Smartphones einstellen k\u00f6nnen. Einige Funktionen ben\u00f6tigen jedoch einen Hub, aber die meisten grundlegenden Funktionen sind ohne zus\u00e4tzliche Hardware verf\u00fcgbar.\n\nMit einer Stromaufnahme von nur 8 Watt ist die SmartLumen Essentials E14 eine energiesparende Wahl f\u00fcr Ihre Beleuchtung. Sie ist ideal f\u00fcr alle, die nach einer einfachen und umweltfreundlichen L\u00f6sung suchen, um ihre Beleuchtung zu automatisieren und zu optimieren.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Matter",
+        "Tuya",
+        "Hubitat",
+        "IFTTT"
+      ],
+      "communication_protocol": [
+        "BLUETOOTH",
+        "Z_WAVE",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E14",
+      "energy_efficiency_class": "D",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 15000,
+      "wattage": 8,
+      "brightness": 500,
+      "color_temp": 2700
+    }
+  },
+  {
+    "product_no": "1100000020",
+    "product_type": "SmartBulb",
+    "name": "Orbital Home SmartBulb Generation 2 - Hellhelligkeit & Farbwiedergabe erweitert",
+    "brand": "Orbital Home",
+    "price": 18.99,
+    "description": "Die Orbital Home SmartBulb Generation 2 ist ein fortschrittliches LED-Leuchtmittel mit vielf\u00e4ltigen Funktionen. Sie bietet eine erweiterte Farbwiedergabe und hellhelle Beleuchtung, was perfekt f\u00fcr jeden Raum geeignet ist.\n\nDiese SmartBulb kann \u00fcber verschiedene Plattformen wie Google Home, Tuya, SmartThings und Hubitat kontrolliert werden, dank ihrer Unterst\u00fctzung von modernsten Kommunikationsprotokollen wie Z-WAVE, THREAD, ZIGBEE und BLUETOOTH.\n\nMit einer wei\u00dfen Lichtfarbe (WHITE) und einer E27-Steckdose ist sie einfach in Ihre bestehende Beleuchtungsanlage integrierbar. Der hohe Leuchtdurchsatz von 800 betr\u00e4gt lediglich 8 Watt, was bedeutet, dass Sie sparsam mit Energie verbrauchen.\n\nDie Orbital Home SmartBulb Generation 2 besitzt auch einen Bewegungssensor (MOTION_SENSOR), sodass sie automatisch ein- oder ausschaltet, wenn niemand in der N\u00e4he ist. Zudem ben\u00f6tigt sie keinen separaten Hub und bietet eine lange Lebensdauer von bis zu 10.000 Betriebsstunden.\n\nBei einer Farbtemperatur von 3000 K hat die SmartBulb einen warmen Lichtton, der den Raum wohnlich macht. Die energieeffiziente Beleuchtung hat ein B-Energieklasse-Label.",
+    "classification": {
+      "platforms": [
+        "Google Home",
+        "Tuya",
+        "SmartThings",
+        "Hubitat"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "light_color": "WHITE",
+      "socket": "E27",
+      "energy_efficiency_class": "B",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 10000,
+      "wattage": 8,
+      "brightness": 800,
+      "color_temp": 3000
+    }
+  },
+  {
+    "product_no": "1100000021",
+    "product_type": "SmartBulb",
+    "name": "Orbital Smart E40 RGB Leuchte",
+    "brand": "Orbital Home",
+    "price": 29.99,
+    "description": "Die Orbital Smart E40 RGB Leuchte von Orbital Home ist eine fortschrittliche Steckdose f\u00fcr den intelligenten Hausgebrauch. Mit ihrer kompatiblen Funktion im Apple Home Kit und Matter-Protokoll erm\u00f6glicht sie eine einfache und sichere Integration in Ihr Smart-Haus-System.\n\nMit ihren drei Kommunikationsprotokollen, WLAN, ZIGBEE und MATTER, bietet diese Leuchte nicht nur Flexibilit\u00e4t bei der Auswahl des Protokolls, sondern auch ein breites Spektrum an M\u00f6glichkeiten f\u00fcr die Installation und den Betrieb.\n\nDie Leuchte verf\u00fcgt \u00fcber eine beeindruckende Farbpalette von RGB und kann mit verschiedenen Lichteffekten angepasst werden, um Ihren pers\u00f6nlichen Stil zu unterstreichen. Mit einer Energieeffizienzklasse von E gew\u00e4hrleistet sie auch einen energiesparenden Betrieb.\n\nDie Orbital Smart E40 RGB Leuchte ist eine gro\u00dfartige Wahl f\u00fcr alle, die nach einem einfach zu bedienenden und vielseitigen Lichtsystem suchen.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Matter",
+        "Tuya",
+        "Hubitat",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "RGB",
+      "socket": "E40",
+      "energy_efficiency_class": "E",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 25000,
+      "wattage": 10,
+      "brightness": 900,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000022",
+    "product_type": "SmartBulb",
+    "name": "SmartBulb Master - Generation 1",
+    "brand": "Hometics",
+    "price": 9.99,
+    "description": "Das Hometics SmartBulb Master - Generation 1 ist ein intelligenter Stecker mit einer Vielzahl an Funktionen. Es unterst\u00fctzt verschiedene Plattformen wie Tuya, Hubitat, Google Home und IFTTT, um eine einfache Integration in Ihr smartes Zuhause zu erm\u00f6glichen.\n\nMit seiner leistungsstarken Kommunikation \u00fcber BLUETOOTH, THREAD, ZIGBEE und MATTER kann der Stecker jederzeit mit Ihrem Ger\u00e4t verbunden bleiben. Die Farb- und Helligkeitseinstellungen k\u00f6nnen einfach per App oder Sprachkommando gesteuert werden.\n\nDer Stecker ist mit einem RGB-Farbstab ausgestattet, was eine umfassende Farbvielfalt erm\u00f6glicht. Au\u00dferdem besitzt er einen E12-Sockel, der sich perfekt in Ihren bestehenden Schalter einf\u00fcgt.\n\nMit einer Effizienzklasse C spart dieser Stecker Strom und ist somit umweltfreundlich. Die Lebensdauer betr\u00e4gt 20.000 Stunden, was bedeutet, dass Sie viele Jahre lang von seiner Funktion profitieren k\u00f6nnen.\n\nEin weiteres Highlight des SmartBulb Master - Generation 1 ist der integrierte Bewegungssensor, der automatisch den Stecker einschaltet und ausschaltet, wenn niemand anwesend ist. Allerdings ben\u00f6tigt dieser Sensor eine externe Steuerzentrale.\n\nMit einer Leistung von nur 8 Watt bietet sich f\u00fcr den Umweltbewussten ein ideales Mittel zur Reduzierung seines Energieverbrauchs. Die Helligkeit kann bis zu 800lm erreichen, um so perfekt f\u00fcr jeden Raum geeignet zu sein.",
+    "classification": {
+      "platforms": [
+        "Tuya",
+        "Hubitat",
+        "Google Home",
+        "IFTTT",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "BLUETOOTH",
+        "THREAD",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "RGB",
+      "socket": "E12",
+      "energy_efficiency_class": "C",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 20000,
+      "wattage": 8,
+      "brightness": 800,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000023",
+    "product_type": "SmartBulb",
+    "name": "Hometics SmartLumina Generation 1",
+    "brand": "Hometics",
+    "price": 13.99,
+    "description": "Die Hometics SmartLumina Generation 1 ist ein intelligenter LED-Steckdosenleuchtb\u00fcgel der Marke Hometics. Dieser SmartBulb eignet sich ideal f\u00fcr den Einsatz in intelligenten Hausautomationssystemen wie Home Assistant oder Hubitat.\n\nMit seiner Vielzahl an Kommunikationsprotokollen wie Z-Wave, Wi-Fi und Matter ist er auf verschiedene Smart-Home-Systeme einsetzbar. Der Bulb leuchtet wei\u00df mit einer Helligkeit von 900 Lumen bei einer Wattstundenleistung von 60W. Seine Farbtemperatur kann auf 4000 Kelvin eingestellt werden, sodass dieser LED-Lampenbaustein f\u00fcr eine weithin optimale Lichtqualit\u00e4t sorgt.\n\nIm Vergleich zu anderen Produkten seiner Art ist die Hometics SmartLumina Generation 1 ausgewiesen durch seine Energieeffizienzklasse B. Da sie mit einem E14-Sockel ausgestattet ist, kann sie einfach in bestehende Beleuchtungssysteme integriert werden.\n\nDas Produkt besitzt die Funktion Lichteffekte und ben\u00f6tigt f\u00fcr eine volle Funktionalit\u00e4t einen Hub zu allen verf\u00fcgbaren Features. Mit einer Lebensdauer von 10.000 Stunden bietet diese LED-Lampe langlebiges und kosteneffizientes Beleuchtungserlebnis.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Hubitat"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E14",
+      "energy_efficiency_class": "B",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 10000,
+      "wattage": 60,
+      "brightness": 900,
+      "color_temp": 4000
+    }
+  },
+  {
+    "product_no": "1100000024",
+    "product_type": "SmartBulb",
+    "name": "Intuit Pro White Bucht",
+    "brand": "Intuit Home",
+    "price": 29.99,
+    "description": "Das Intuit Pro White Bucht ist eine intelligente Gl\u00fchbirne der Marke Intuit Home. Sie bietet eine Vielzahl an Funktionen und kann mit verschiedenen Smart-Assistenten wie Google Home oder Alexa kompatibel gemacht werden. Dank ihrer Verbindung \u00fcber WIFI oder ZIGBEE k\u00f6nnen Sie die Gl\u00fchbirne einfach in Ihre bestehende Smart-Home-Anlage einbinden.\n\nDie Intuit Pro White Bucht besitzt eine hohe Helligkeit von bis zu 900 Lumen, was sie besonders f\u00fcr Wohnr\u00e4ume geeignet macht. Die LED-Technologie erlaubt au\u00dferdem eine sehr lange Lebensdauer von 20.000 Betriebsstunden.\n\nEin weiteres Highlight ist die M\u00f6glichkeit, individuelle Lichteffekte zu konfigurieren und anzupassen. Dies erm\u00f6glicht es Ihnen, die Atmosph\u00e4re in Ihrem Zuhause perfekt an Ihre Bed\u00fcrfnisse anzupassen.\n\nMit einer Energieeffizienzklasse B erf\u00fcllt das Produkt die g\u00e4ngigen Energiesparvorschriften und sorgt somit nicht nur f\u00fcr eine angenehme Beleuchtung, sondern auch f\u00fcr einen nachhaltigeren Umgang mit Ressourcen.",
+    "classification": {
+      "platforms": [
+        "Google Home",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE"
+      ],
+      "light_color": "WHITE",
+      "socket": "E27",
+      "energy_efficiency_class": "B",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 20000,
+      "wattage": 12,
+      "brightness": 900,
+      "color_temp": 6000
+    }
+  },
+  {
+    "product_no": "1100000025",
+    "product_type": "SmartBulb",
+    "name": "CasaCore Smart Socket RGB G9 B-Energie Effizienz mit Bewegungssensor",
+    "brand": "CasaCore",
+    "price": 9.99,
+    "description": "Der CasaCore Smart Socket RGB G9 ist ein intelligentes Steckernetzwerk-Produkt der Marke CasaCore. Es kann mit verschiedenen Plattformen wie Home Assistant, Matter, Hubitat, IFTTT, SmartThings und Alexa kombiniert werden.\n\nDas Produkt unterst\u00fctzt verschiedene Kommunikationsprotokolle wie Z-WAVE, THREAD, WIFI und MATTER. Der Smart Socket hat eine RGB-Farbenanzeige und ist mit einer G9-Steckdosensteckdose ausgestattet.\n\nMit seiner Energieeffizienzklasse B spart er Energie und unterst\u00fctzt die Umweltfreundlichkeit. Ein Bewegungssensor verhindert unbeabsichtigtes Verbrauch von Strom, wenn der Raum leer ist.\n\nDer Smart Socket kann einige Funktionen nur \u00fcber einen Hub verwenden, w\u00e4hrend andere direkt ohne eine Zwischenstufe angesprochen werden k\u00f6nnen.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Matter",
+        "Hubitat",
+        "IFTTT",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "WIFI",
+        "MATTER"
+      ],
+      "light_color": "RGB",
+      "socket": "G9",
+      "energy_efficiency_class": "B",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 20000,
+      "wattage": 10,
+      "brightness": 500,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000026",
+    "product_type": "SmartBulb",
+    "name": "Hometics Energiemaster Edition",
+    "brand": "Hometics",
+    "price": 8.0,
+    "description": "Die Hometics Energiemaster Edition ist ein High-End-Smart-Licht aus der Marke Hometics. Diese innovative Lichtquelle unterst\u00fctzt eine Vielzahl von Plattformen wie Home Assistant, Matter, Tuya, Google Home und IFTTT, um eine optimale Integration in Ihr Smart-Home zu erm\u00f6glichen.\n\nMit seiner vielseitigen Kommunikationsf\u00e4higkeit \u00fcber BLUETOOTH, Z-WAVE, ZIGBEE und MATTER kann der Hometics Energiemaster Edition problemlos in verschiedene Ger\u00e4ten-Netzwerke eingebunden werden. \n\nDie Lichtfarbe des Produkts ist Weiss mit einer Temperatur von 6000 Kelvin, was ein angenehmes Licht atmosph\u00e4re schafft.\n\nMit seiner Kompaktheit in einem E40-Steckdosensockel bietet der Hometics Energiemaster Edition maximale Flexibilit\u00e4t und Praktikabilit\u00e4t bei der Einbindung. \n\nDie Energieeffizienzklasse des Produkts ist E, was sich positiv auf die Umwelt auswirkt.\n\nDas Produkt verf\u00fcgt \u00fcber eine integrierte Bewegungssensorfunktion, um maximale Energieeinsparungen zu erm\u00f6glichen. \n\nZusammengefasst bietet der Hometics Energiemaster Edition eine hochwertige L\u00f6sung f\u00fcr die Smart-Home-Integration mit einer Vielzahl von Funktionen und einer optimierten Energieeffizienzklasse.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Matter",
+        "Tuya",
+        "Google Home",
+        "IFTTT"
+      ],
+      "communication_protocol": [
+        "BLUETOOTH",
+        "Z_WAVE",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E40",
+      "energy_efficiency_class": "E",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 20000,
+      "wattage": 10,
+      "brightness": 500,
+      "color_temp": 6000
+    }
+  },
+  {
+    "product_no": "1100000027",
+    "product_type": "SmartBulb",
+    "name": "SmartConnect G9 RGB LED Spots E 20W",
+    "brand": "FerroSync",
+    "price": 18.99,
+    "description": "Das FerroSync SmartConnect G9 RGB LED Spots E 20W ist eine fortschrittliche Gl\u00fchbirne, die mit verschiedenen Plattformen wie Home Assistant, IFTTT, Hubitat und Matter kompatibel ist. Dank ihres intelligenten Designs kann sie \u00fcber verschiedene Kommunikationsprotokolle wie Z-WAVE, THREAD und BLUETOOTH kommunizieren.\n\nDiese LED-Gl\u00fchbirne bietet eine Vielzahl an Funktionen, einschlie\u00dflich einer Bewegungssensorfunktion, die automatisch den Lichtbetrieb aktiviert oder deaktiviert. Sie kann in verschiedenen Farbtemperatur-Modi betrieben werden und bietet ein breites Spektrum an Farben.\n\nDas Produkt zeichnet sich durch seine Energieeffizienz aus, mit einer Klasse F bei der Energieeffizienz. Die LED-Gl\u00fchbirne verbraucht lediglich 6 Watt, was zu erheblichen Einsparungen im Vergleich zu herk\u00f6mmlichen Gl\u00fchbirnen f\u00fchren kann.\n\nDas Produkt ist in verschiedenen Farben erh\u00e4ltlich und bietet eine lange Lebensdauer von bis zu 30.000 Stunden. Bei einer Leuchtkraft von 800 Lumen macht es das SmartConnect G9 RGB LED Spots E 20W zu einem idealen Produkt f\u00fcr den Einsatz in verschiedenen Bereichen, vom Wohnzimmer bis hin zum B\u00fcro.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "IFTTT",
+        "Hubitat",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "BLUETOOTH"
+      ],
+      "light_color": "RGB",
+      "socket": "G9",
+      "energy_efficiency_class": "F",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 30000,
+      "wattage": 6,
+      "brightness": 800,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000028",
+    "product_type": "SmartBulb",
+    "name": "SmartConnect E12 RGB FerroSync Motion Edition",
+    "brand": "FerroSync",
+    "price": 9.99,
+    "description": "Der SmartConnect E12 RGB FerroSync Motion Edition ist eine intelligente Leuchte von FerroSync, die mit verschiedenen Plattformen wie IFTTT, Alexa und Matter kompatibel ist. Sie verf\u00fcgt \u00fcber ein breites Spektrum an Farben, da sie in RGB Lichtfarbe ausgestattet ist. Die Steuerung erfolgt \u00fcber den ZIGBEE- oder BLUETOOTH-Prozess. Mit einer Leuchtdauer von 30.000 Stunden und einem Wirkungsgrad von F, bietet der SmartConnect E12 RGB FerroSync Motion Edition eine optimale L\u00f6sung f\u00fcr alle Lichtanforderungen. Au\u00dferdem verf\u00fcgt sie \u00fcber ein integriertes Bewegungssensor-Funktion.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "Alexa",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "light_color": "RGB",
+      "socket": "E12",
+      "energy_efficiency_class": "F",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 30000,
+      "wattage": 60,
+      "brightness": 500,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000029",
+    "product_type": "SmartBulb",
+    "name": "Intuit Home Generation Eins - E27 Wei\u00df Licht mit Bewegungssensor",
+    "brand": "Intuit Home",
+    "price": 18.99,
+    "description": "Das Intuit Home Generation Eins ist eine innovative SmartBulb f\u00fcr den Hausgebrauch. Mit einer Kombination aus moderner Technologie und umweltfreundlichen Eigenschaften bietet sie ein optimales Lichterlebnis in Ihrem Zuhause.\n\nDie Intuit Home Generation Eins ist mit verschiedenen Plattformen wie Home Assistant, Apple Home Kit, Matter, Tuya, Hubitat, SmartThings und Alexa kompatibel. Damit k\u00f6nnen Sie Ihre Lichtansteuerung von Ihren Ger\u00e4ten aus einfach und bequem steuern.\n\nDiese SmartBulb verf\u00fcgt \u00fcber eine Reihe beeindruckender Funktionen. Mit dem integrierten Bewegungssensor erkennt sie automatisch, ob sich jemand im Raum aufh\u00e4lt oder nicht. So k\u00f6nnen Sie Ihre Lichtanlage gezielt einschalten oder abschalten, wenn niemand mehr in der N\u00e4he ist.\n\nDie SmartBulb von Intuit Home Generation Eins bietet eine hohe Helligkeit von 600 Lux und ist mit einer Leistung von nur 6 Watt \u00e4u\u00dferst effizient. Ihr Wei\u00dflicht besitzt eine Lichtfarbe von 3000 Kelvin, was sich optimal f\u00fcr Wohnr\u00e4ume eignet.\n\nDiese innovative SmartBulb verf\u00fcgt \u00fcber eine lange Lebensdauer von bis zu 30.000 Betriebsstunden, dank ihres robusten Designs und hochwertigen Materials ist sie auch langlebig. Sie ben\u00f6tigt keine zentrale Steuerungseinheit (Hub) f\u00fcr die meisten Funktionen, was es Ihnen erm\u00f6glicht, sie direkt an Ihren Lichterstecker anzuschlie\u00dfen.\n\nInsgesamt bietet das Intuit Home Generation Eins eine perfekte Balance aus Innovation, Komfort und Umweltfreundlichkeit. Mit dieser SmartBulb k\u00f6nnen Sie Ihre Wohnr\u00e4ume noch bequemer und sicherer gestalten.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Matter",
+        "Tuya",
+        "Hubitat",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E27",
+      "energy_efficiency_class": "A",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 30000,
+      "wattage": 6,
+      "brightness": 600,
+      "color_temp": 3000
+    }
+  },
+  {
+    "product_no": "1100000030",
+    "product_type": "SmartBulb",
+    "name": "SmartBulb Hometics Generation 1: RGB Energieeffizienz Klass G",
+    "brand": "Hometics",
+    "price": 13.99,
+    "description": "Der SmartBulb Hometics Generation 1 von Hometics ist ein intelligentes LED-Lampen-Ersatzteil mit vielen praktischen Funktionen. Mit seiner Energieeffizienz-Klassifikation G spart er Energie und reduziert die CO2-Emissionen. Dank des RGB-Farbspektrums kann er in \u00fcber 16 Millionen verschiedene Farben geschaltet werden, um jeden Raum individuell zu stylen.\n\nDie SmartBulb ist vollst\u00e4ndig kompatibel mit verschiedenen Plattformen wie Matter, Tuya, Hubitat, Google Home und Alexa, sodass ein einfacher Anschluss an Ihr Zuhause-Steuerungssystem m\u00f6glich ist. Au\u00dferdem unterst\u00fctzt sie verschiedene Kommunikationsprotokolle wie Z-WAVE, WIFI und ZIGBEE.\n\nDer SmartBulb besitzt au\u00dferdem einen Bewegungssensor (MOTION_SENSOR), der automatisch den Lampenmodus wechselt, sobald er eine Bewegung in der Umgebung erkennt. Dar\u00fcber hinaus kann die SmartBulb auch \u00fcber ein Zentralsteuerungssystem gesteuert werden, wenn alle Funktionen genutzt werden sollen.\n\nDiese LED-Lampe hat eine ausgezeichnete Helligkeit von 900 LM und ben\u00f6tigt nur wenige Watt (6W). Au\u00dferdem ist sie mit einer enorm langen Lebensdauer von bis zu 20.000 Stunden ausgestattet.\n\nDer SmartBulb Hometics Generation 1 von Hometics ist ein hervorragender Ersatz f\u00fcr herk\u00f6mmliche Gl\u00fchbirnen und bietet viele Funktionen, um Ihr Zuhause komfortabler zu gestalten.",
+    "classification": {
+      "platforms": [
+        "Matter",
+        "Tuya",
+        "Hubitat",
+        "Google Home",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "ZIGBEE"
+      ],
+      "light_color": "RGB",
+      "socket": "E27",
+      "energy_efficiency_class": "G",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 20000,
+      "wattage": 6,
+      "brightness": 900,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000031",
+    "product_type": "SmartBulb",
+    "name": "SmartBulb Generation 4 - FerroSync Wei\u00df",
+    "brand": "FerroSync",
+    "price": 8.0,
+    "description": "Die SmartBulb Generation 4 von FerroSync ist eine innovative L\u00f6sung f\u00fcr den Hausgebrauch. Mit ihrer wei\u00dfen Farbe und einer Lichtfarbenh\u00f6he von 4000 Kelvin bringt sie ein gem\u00fctliches Ambiente in jeden Raum. Die Bulb kann \u00fcber verschiedene Plattformen wie Home Assistant, Apple Home Kit oder Google Home gesteuert werden.\n\nSie verf\u00fcgt \u00fcber eine Vielzahl an Funktionen, darunter die M\u00f6glichkeit, Lichteffekte zu erstellen und anzupassen. Mit einer Leuchtdauer von 15.000 Stunden und einer Energieverbrauchsklasse D ist sie eine umweltfreundliche Wahl. Da keine Hub-Voreinstellung erforderlich ist, kann sie direkt in den Stromnetz eingebunden werden.\n\nAu\u00dferdem unterst\u00fctzt die SmartBulb alle g\u00e4ngigen Kommunikationsprotokolle wie Z-WAVE, THREAD und BLUETOOTH.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Matter",
+        "Tuya",
+        "Google Home",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "BLUETOOTH",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E12",
+      "energy_efficiency_class": "D",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 15000,
+      "wattage": 6,
+      "brightness": 600,
+      "color_temp": 4000
+    }
+  },
+  {
+    "product_no": "1100000032",
+    "product_type": "SmartBulb",
+    "name": "SmartBulb Pro E14 RGB - Effizient mit Smartfunktionen",
+    "brand": "FerroSync",
+    "price": 18.99,
+    "description": "Die SmartBulb Pro E14 RGB von FerroSync ist eine effiziente Steckdosenlampe mit intelligenten Funktionen. Mit dieser innovative Produktreihe k\u00f6nnen Sie Ihr Zuhause noch komfortabler und sicherer gestalten.\n\nMit der Unterst\u00fctzung durch verschiedene Plattformen wie Tuya, Hubitat und Apple Home Kit k\u00f6nnen Sie Ihre SmartBulb Pro E14 RGB einfach und sicher in Ihr bestehendes Smart-Home-System integrieren. Um alle Funktionen zu nutzen, ben\u00f6tigen Sie ein separates Gateway (Hub) f\u00fcr die Kommunikation zwischen Ger\u00e4ten.\n\nDie Steckdosenlampe unterst\u00fctzt verschiedene Kommunikationsprotokolle wie Z-WAVE, ZIGBEE und MATTER, um eine sichere Verbindung zwischen den verschiedenen Ger\u00e4ten sicherzustellen. \n\nMit einer Helligkeit von 900 Lux bietet die SmartBulb Pro E14 RGB eine angenehme Beleuchtungsst\u00e4rke in Ihrem Zuhause. Die Leistung betr\u00e4gt lediglich 8 Watt, was zu einem sehr effizienten Verbrauch im Vergleich zu herk\u00f6mmlichen Gl\u00fchbirnen f\u00fchrt.\n\nDie SmartBulb Pro E14 RGB verf\u00fcgt \u00fcber eine lange Lebensdauer von etwa 30.000 Betriebsstunden und bietet verschiedene Farben durch ihre RGB-Funktion an, um die Beleuchtung in Ihrem Zuhause individuell zu gestalten.\n\nAu\u00dferdem ist sie mit einem Motion Sensor ausgestattet, der automatisch die Helligkeit anpasst, wenn sich Bewegungen im Raum feststellen lassen. Dadurch sparen Sie Energie und k\u00f6nnen Ihre Steckdosenlampe auf Wunsch auch fernsteuern.",
+    "classification": {
+      "platforms": [
+        "Tuya",
+        "Hubitat",
+        "Apple Home Kit"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "RGB",
+      "socket": "E14",
+      "energy_efficiency_class": "F",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 30000,
+      "wattage": 8,
+      "brightness": 900,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000033",
+    "product_type": "SmartBulb",
+    "name": "CasaCore Effizienz Edition A+ E27 8W 900lm 25000h Wei\u00df",
+    "brand": "CasaCore",
+    "price": 8.0,
+    "description": "Das CasaCore Effizienz Edition A+ E27 8W 900lm 25000h Wei\u00df ist eine intelligente Steckdose, die sich perfekt in Ihr Zuhause integrieren l\u00e4sst. Mit der Unterst\u00fctzung von verschiedenen Plattformen wie Apple Home Kit, Tuya, Hubitat, SmartThings und Alexa k\u00f6nnen Sie Ihre Lichtsteuerung einfach und komfortabel gestalten.\n\nDas Produkt unterst\u00fctzt eine Vielzahl an Kommunikationsprotokollen wie Z-WAVE, THREAD, WIFI, ZIGBEE und BLUETOOTH. Die intelligenten Funktionen erlauben es Ihnen, das Licht in verschiedenen Farben und Helligkeiten zu steuern, was besonders bei der Beleuchtung von R\u00e4umen oder der Erzielung eines bestimmten Atmosph\u00e4rs sehr n\u00fctzlich ist.\n\nDas CasaCore Effizienz Edition A+ E27 8W 900lm 25000h Wei\u00df zeichnet sich auch durch seine hohe Haltbarkeit und Effizienz aus. Mit einer Lebensdauer von bis zu 25.000 Stunden spart es Ihnen Kosten f\u00fcr die Replacement des Lichts. Au\u00dferdem besitzt das Produkt eine sehr gute Energieeffizienz, da es nur mit 8 Watt arbeitet.\n\nInsgesamt bietet das CasaCore Effizienz Edition A+ E27 8W 900lm 25000h Wei\u00df eine vielseitige und praktische L\u00f6sung f\u00fcr Ihre Beleuchtungsanforderungen. Dank seiner modernen Technologie, hoher Haltbarkeit und Komfortfunktionen ist es ein idealer Partner f\u00fcr Ihr Zuhause.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Tuya",
+        "Hubitat",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "WIFI",
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "light_color": "WHITE",
+      "socket": "E27",
+      "energy_efficiency_class": "A",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 25000,
+      "wattage": 8,
+      "brightness": 900,
+      "color_temp": 6000
+    }
+  },
+  {
+    "product_no": "1100000034",
+    "product_type": "SmartBulb",
+    "name": "SmartLumina X1 - RGB Smartbulb",
+    "brand": "Orbital Home",
+    "price": 8.0,
+    "description": "Die SmartLumina X1 - RGB Smartbulb von Orbital Home bietet eine Vielzahl an Funktionen und ist aufgrund seiner Kombination aus Farbwechseln und Helligkeit ein perfektes Highlight in Ihrem Zuhause. Mit der M\u00f6glichkeit, sich \u00fcber verschiedene Plattformen wie Home Assistant, Matter oder Tuya zu verbinden, l\u00e4sst es sich leicht in Ihr bestehendes Smart-Home-System integrieren.\n\nF\u00fcr eine optimale Steuerung ist die Verbindung zum Internet \u00fcber WiFi, Zigbee, Thread oder Bluetooth erforderlich. Die Kombination aus Farblicht und Helligkeit erm\u00f6glicht einzigartige Lichteffekte, w\u00e4hrend die Energieeffizienzklasse B eine nachhaltige Nutzung gew\u00e4hrleistet.\n\nMit einer Lebensdauer von 15.000 Stunden und einer Wattzahl von 60 W ist diese Smart-Bulb nicht nur funktional, sondern auch energiesparend. Die maximale Helligkeit betr\u00e4gt 800 lm, was f\u00fcr die meisten Wohnr\u00e4ume ausreichend ist.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Matter",
+        "Tuya",
+        "Hubitat",
+        "IFTTT",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE",
+        "THREAD",
+        "BLUETOOTH"
+      ],
+      "light_color": "RGB",
+      "socket": "E14",
+      "energy_efficiency_class": "B",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 15000,
+      "wattage": 60,
+      "brightness": 800,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000035",
+    "product_type": "SmartBulb",
+    "name": "EcoSmart Hub-Free LED Lichtbulbe mit Bewegungssensor und Wei\u00dftem Farbton",
+    "brand": "Hometics",
+    "price": 9.99,
+    "description": "Die EcoSmart Hub-Free LED Lichtbulbe von Hometics ist eine intelligente L\u00f6sung f\u00fcr Ihren Wohnraum. Mit ihrem Bewegungssensor und dem Wei\u00dflicht-Farbton k\u00f6nnen Sie Ihre Beleuchtung auf Ihre Bed\u00fcrfnisse anpassen. Die Bulbe ist kompatibel mit verschiedenen Plattformen wie IFTTT, Hubitat, Apple Home Kit und Matter.\n\nSie unterst\u00fctzt verschiedene Kommunikationsprotokolle wie Z-WAVE, WIFI, ZIGBEE und MATTER. Dank ihres E14-Steckers kann sie in die meisten Lampenschirmen eingesetzt werden. Die EcoSmart Bulbe bietet eine hohe Energieeffizienz mit einer Klasse F und einen leichten Stromverbrauch von 6 Watt.\n\nEin wichtiger Vorteil der Bulbe ist, dass sie keinen Hub ben\u00f6tigt, um zu funktionieren. Sie ist daher einfach in Ihren bestehenden Beleuchtungsanlagen zu integrieren. Mit einer Lebensdauer von bis zu 20.000 Stunden ist die EcoSmart Bulbe eine langfristige und kosteng\u00fcnstige L\u00f6sung f\u00fcr Ihre Wohnraum-Beleuchtung.\n\nDie Bulbe bietet eine Helligkeit von bis zu 900 Lumen und hat eine Farbtemperatur von 6000 Kelvin, was ein weithin bekannter Standard f\u00fcr ein helles und freundliches Licht ist.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "Hubitat",
+        "Apple Home Kit",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E14",
+      "energy_efficiency_class": "F",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 20000,
+      "wattage": 6,
+      "brightness": 900,
+      "color_temp": 6000
+    }
+  },
+  {
+    "product_no": "1100000036",
+    "product_type": "SmartBulb",
+    "name": "SmartLicht f\u00fcr die Zukunft: CasaCore SmartBulb E27 F",
+    "brand": "CasaCore",
+    "price": 8.0,
+    "description": "Die CasaCore SmartBulb E27 F ist eine intelligente Lampe der Zukunft, die mit verschiedenen Plattformen wie Home Assistant, Apple Home Kit, Tuya und SmartThings kompatibel ist. Mit ihrer modernen Optik und weiten Farbraum bietet sie ein angenehmes Licht, ideal f\u00fcr jeden Raum in Ihrem Zuhause.\n\nMit einer Leuchtdauer von 30.000 Stunden verf\u00fcgt die SmartBulb \u00fcber eine lange Lebensdauer. Ihre Energieeffizienzklasse F stellt sicher, dass Sie nicht nur einen guten Service genie\u00dfen, sondern auch Ihren Umweltschutz unterst\u00fctzen.\n\nDurch ihre Verbindung mit verschiedenen Kommunikationsprotokollen wie Z-WAVE, THREAD und MATTER ist sie stets auf dem neuesten Stand. Ob Sie Ihre Lampe in der E27-Sockel montieren oder \u00fcber das Internet steuern m\u00f6chten - die SmartBulb bietet Ihnen absolute Flexibilit\u00e4t.\n\nMit ihrem hohen Farbtemperatur von 2700 K verf\u00fcgt die SmartLicht f\u00fcrt die Zukunft: CasaCore SmartBulb E27 F auch \u00fcber eine vielseitige Lichtfarbe, welche Ihnen erm\u00f6glicht, Ihr Zuhause nach Ihren Bed\u00fcrfnissen zu gestalten.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Tuya",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "MATTER"
+      ],
+      "light_color": "WHITE",
+      "socket": "E27",
+      "energy_efficiency_class": "F",
+      "features": "MOTION_SENSOR",
+      "requireshub": "NO_HUB_REQUIRED",
+      "lifetime": 30000,
+      "wattage": 8,
+      "brightness": 600,
+      "color_temp": 2700
+    }
+  },
+  {
+    "product_no": "1100000037",
+    "product_type": "SmartBulb",
+    "name": "FerroSync SmartBulb G9 Generation RGB+",
+    "brand": "FerroSync",
+    "price": 28.99,
+    "description": "Die FerroSync SmartBulb G9 Generation RGB+ ist ein vielseitiges Lichtsystem von der Marke FerroSync. Mit einer Langlebigkeit von bis zu 10.000 Betriebsstunden bietet es eine l\u00fcckenlose Beleuchtungsl\u00f6sung f\u00fcr Ihr Zuhause.\n\nSie k\u00f6nnen die SmartBulb mit verschiedenen Plattformen wie Home Assistant, Tuya, Hubitat und IFTTT verbinden und auch mit Alexa integrieren. Dadurch k\u00f6nnen Sie Ihre Lichtanforderungen \u00fcber Ihren Smart Speaker abrufen.\n\nMit der Unterst\u00fctzung von drei Kommunikationsprotokollen - Z-WAVE, ZIGBEE und BLUETOOTH - erm\u00f6glicht es Ihnen eine flexible und leistungsstarke Integration in Ihr Smart Home.\n\nDie Bulb ist mit einer Wattstufe von 12 W sehr energieeffizient. Es unterst\u00fctzt eine Helligkeit von bis zu 800 Lumen und bietet eine Vielzahl von Lichteffekten dank seiner Farben- und Temperaturanpassungsf\u00e4higkeit.\n\nDie FerroSync SmartBulb G9 Generation RGB+ ist ein praktisches und leistungsstarkes Produkt f\u00fcr alle, die nach einem sicheren und wirtschaftlichen Einstieg in das Smart Home suchen. Mit seinem g\u00fcnstigen Preis von 28,99 \u20ac bietet es eine hervorragende Kombination aus Funktionalit\u00e4t und Wert.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Tuya",
+        "Hubitat",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "light_color": "RGB",
+      "socket": "G9",
+      "energy_efficiency_class": "A",
+      "features": "LIGHTING_EFFECTS",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 10000,
+      "wattage": 12,
+      "brightness": 800,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000038",
+    "product_type": "SmartBulb",
+    "name": "Hometics SmartLicht B9-Motion",
+    "brand": "Hometics",
+    "price": 8.0,
+    "description": "Das Hometics SmartLicht B9-Motion von Hometics ist eine intelligente Gl\u00fchbirne, die sich perfekt in Ihr Smart-Home integrieren l\u00e4sst. Unterst\u00fctzt wird sie durch popul\u00e4re Plattformen wie Home Assistant, Matter und Google Home sowie auch Alexa und IFTTT. Mit dem MATTER-Kommunikationsprotokoll sorgt sie f\u00fcr ein stabiles und sichereres Verbindungsnetzwerk.\n\nMit einer RGB-Farbeleistung k\u00f6nnen Sie Ihr Zuhause noch individueller gestalten. Die Gl\u00fchbirne ist in einem G9-Steckdosenformat erh\u00e4ltlich, was sie ideal f\u00fcr den Einsatz in verschiedenen L\u00fcften macht. Au\u00dferdem zeichnet sich das Hometics SmartLicht B9-Motion durch eine hohe Energieeffizienzklasse von B aus.\n\nEin besonderes Highlight ist der Motion-Sensor, der automatisch die Lichtintensit\u00e4t anpasst, wenn Bewegung erfasst wird. Die Verbindung zum Hub ist erforderlich, um alle Funktionen nutzen zu k\u00f6nnen. Mit einer Lebensdauer von 10.000 Stunden garantiert das Produkt eine lange und zuverl\u00e4ssige Betriebszeit.\n\nMit einer Wattzahl von 60 W und einer Helligkeit von 600 Lumen bietet die Gl\u00fchbirne ausreichende Lichtintensit\u00e4t f\u00fcr jedes Raumkonzept.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Matter",
+        "Google Home",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "MATTER"
+      ],
+      "light_color": "RGB",
+      "socket": "G9",
+      "energy_efficiency_class": "B",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_ALL_FEATURES",
+      "lifetime": 10000,
+      "wattage": 60,
+      "brightness": 600,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000039",
+    "product_type": "SmartBulb",
+    "name": "CasaCore SmartBulb Generation 2: Brillante L\u00f6sung mit RGB-Farben und Motion Sensor",
+    "brand": "CasaCore",
+    "price": 18.99,
+    "description": "Die CasaCore SmartBulb Generation 2 ist eine brillante L\u00f6sung f\u00fcr Ihre Beleuchtungsbed\u00fcrfnisse. Mit ihrer F\u00e4higkeit, RGB-Farben zu produzieren, bietet sie eine Vielzahl an Farbvariationen, um Ihr Zuhause zu individualisieren. Der integrierte Motion Sensor erkennt und reagiert auf Bewegungen in Ihrem Raum, indem er automatisch die Beleuchtung ein- oder ausschaltet.\n\nDie SmartBulb ist kompatibel mit verschiedenen Plattformen wie Apple Home Kit, Matter, Hubitat, Google Home, IFTTT und Alexa. Sie unterst\u00fctzt auch verschiedene Kommunikationsprotokolle wie WIFI, ZIGBEE und THREAD. Dank ihrer Energieeffizienzklasse B sorgt sie f\u00fcr eine optimale Ausnutzung der Energie.\n\nDie CasaCore SmartBulb Generation 2 bietet eine H\u00f6chstleistung von 800 Lumen bei einer Wattzahl von 6 W. Ihre Farbtemperatur ist an die Bed\u00fcrfnisse des Benutzers angepasst und kann daher nicht festgelegt werden. Mit einer erwarteten Lebensdauer von bis zu 10.000 Stunden stellt sie eine langfristige Investition in Ihre Beleuchtung dar.\n\nZur vollst\u00e4ndigen Funktionsweise der SmartBulb ist ein Hub erforderlich, um einige ihrer Features nutzen zu k\u00f6nnen.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Matter",
+        "Hubitat",
+        "Google Home",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE",
+        "THREAD"
+      ],
+      "light_color": "RGB",
+      "socket": "E40",
+      "energy_efficiency_class": "B",
+      "features": "MOTION_SENSOR",
+      "requireshub": "FOR_SOME_FEATURES",
+      "lifetime": 10000,
+      "wattage": 6,
+      "brightness": 800,
+      "color_temp": null
+    }
+  },
+  {
+    "product_no": "1100000040",
+    "product_type": "SmartThermostat",
+    "name": "Intuit Home Smart Thermostat Pro X",
+    "brand": "Intuit Home",
+    "price": 75.0,
+    "description": "Der Intuit Home Smart Thermostat Pro X ist ein intelligentes Heizungssystem, das mit verschiedenen Plattformen wie Home Assistant, Apple Home Kit und Google Home kompatibel ist. Mit seiner modernen BLACK-Kernfassung und quadratischen Form passt er sich perfekt in jeden Raum ein. Dank seines energieeffizienten Designs spart der Smart Thermostat Energie und sch\u00fctzt Umwelt und Klima. Seine vielf\u00e4ltigen Funktionen wie Benutzerberichte, Energiemeldungen und geografische Einschr\u00e4nkungen erm\u00f6glichen eine optimale Raumbeleuchtung und -temperatur.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Matter",
+        "Hubitat",
+        "Google Home",
+        "IFTTT",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "color": "BLACK",
+      "shape": "SQUARE",
+      "features": [
+        "LOCAL_ONLY",
+        "USAGE_REPORTS",
+        "OPEN_API",
+        "ENERGY_SAVING_TIPS",
+        "GEOFENCING",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "NOT_REQUIRED",
+      "remote_temperature_sensor": "NOT_AVAILABLE",
+      "replaceable_batteries": "AAA_X3"
+    }
+  },
+  {
+    "product_no": "1100000041",
+    "product_type": "SmartThermostat",
+    "name": "FerroSync SmartThermostat Evolution Edition",
+    "brand": "FerroSync",
+    "price": 133.99,
+    "description": "Der FerroSync SmartThermostat Evolution Edition ist ein fortschrittliches Thermostatikger\u00e4t von der Marke FerroSync. Mit seiner modernen Designform, einem rechteckigen K\u00f6rper in Silber, passt es sich perfekt in jeden Wohnraum ein.\n\nFerroSync SmartThermostat Evolution Edition unterst\u00fctzt eine Vielzahl von Plattformen wie IFTTT, SmartThings, Tuya und Matter, um sicherzustellen, dass Sie Ihre Temperaturbed\u00fcrfnisse jederzeit und \u00fcberall anpassen k\u00f6nnen. \n\nDas Ger\u00e4t verf\u00fcgt \u00fcber einen Thread-, Wi-Fi- und Matter-Kommunikationsprotokoll, damit es Ihnen schnell und einfach mit Ihrem Heimnetzwerk verbunden werden kann.\n\nMit seinen vielen Features wie einem physischen Drehknopf, physischen Tasten, Energieeinsparungstipps und einer Luftqualit\u00e4tsensorik ist dieser Thermostat nicht nur ein praktisches Ger\u00e4t, sondern auch ein umweltfreundliches. \n\nDer FerroSync SmartThermostat Evolution Edition ben\u00f6tigt entweder einen C-Wire oder einen Adapter, sodass es sich leicht in Ihr bestehendes Heizsystem integrieren l\u00e4sst. \n\nLeider unterst\u00fctzt dieser Thermostat keinen Fernsensor zur Messung der Raumtemperatur.\n\nFazit: Mit seinen fortschrittlichen Funktionen und seinen verschiedenen Verbindungsoptionen ist der FerroSync SmartThermostat Evolution Edition ein modernes Ger\u00e4t, das Ihren Bed\u00fcrfnissen als Benutzer gerecht wird.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "SmartThings",
+        "Tuya",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "THREAD",
+        "WIFI",
+        "MATTER"
+      ],
+      "color": "SILVER",
+      "shape": "RECTANGLE",
+      "features": [
+        "PHYSICAL_DIAL",
+        "PHYSICAL_BUTTONS",
+        "ENERGY_SAVING_TIPS",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "REQUIRES_C_WIRE_OR_ADAPTER",
+      "remote_temperature_sensor": "NOT_AVAILABLE",
+      "replaceable_batteries": "AAA_X2"
+    }
+  },
+  {
+    "product_no": "1100000042",
+    "product_type": "SmartThermostat",
+    "name": "FerroSync Sense\n\n(Generation 1, Familie Thermostat)",
+    "brand": "FerroSync",
+    "price": 95.0,
+    "description": "Das FerroSync Sense, Generation 1 aus der Familie Thermostat von FerroSync, ist ein intelligenter Thermostat, der sich mit verschiedenen Plattformen wie Home Assistant, Tuya, Hubitat, IFTTT und SmartThings verbinden l\u00e4sst. Dar\u00fcber hinaus unterst\u00fctzt er auch die Verbindung \u00fcber Alexa.\n\nMit seinen vielf\u00e4ltigen Kommunikationsprotokollen, einschlie\u00dflich Z-Wave, WiFi, Zigbee und Thread, bietet das FerroSync Sense eine flexible Anpassung an unterschiedliche Umgebungen.\n\nDie Ger\u00e4teausstattung umfasst einen lokal arbeitenden Modus, den es erm\u00f6glicht, Temperaturregulierung auch ohne Internetzugriff durchzuf\u00fchren. Ebenso kann der Benutzer \u00fcber Nutzungshistorien informiert werden. Zudem verf\u00fcgt das FerroSync Sense \u00fcber eine physische Drehregulierung, ein Tastenfeld und einen Touchscreen f\u00fcr intuitive Bedienung.\n\nEin weiteres Merkmal ist die Integration eines Luftqualit\u00e4tsensors, um die umgebende Luftqualit\u00e4t zu messen.\n\nDas Ger\u00e4t ben\u00f6tigt keine C-Wire und kann daher in vielen unterschiedlichen Installationssituationen eingesetzt werden. Optional ist eine remote Temperaturensensor verf\u00fcgbar.\n\nBatterien sind als 4-stellige AAA-Batterien auswechselbar.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Tuya",
+        "Hubitat",
+        "IFTTT",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "ZIGBEE",
+        "THREAD"
+      ],
+      "color": "WHITE",
+      "shape": "RECTANGLE",
+      "features": [
+        "LOCAL_ONLY",
+        "USAGE_REPORTS",
+        "PHYSICAL_DIAL",
+        "PHYSICAL_BUTTONS",
+        "TOUCH_SCREEN",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "NOT_REQUIRED",
+      "remote_temperature_sensor": "AVAILABLE_AS_ADD_ON",
+      "replaceable_batteries": "AAA_X4"
+    }
+  },
+  {
+    "product_no": "1100000043",
+    "product_type": "SmartThermostat",
+    "name": "SmartThermostat X1 - Smarte Heizung f\u00fcr jeden Raum",
+    "brand": "Hometics",
+    "price": 250.0,
+    "description": "Das SmartThermostat X1 von Hometics ist eine intelligente Heizung, die jeden Raum individuell beheizen kann. Mit der Verbindung zu verschiedenen Plattformen wie Home Assistant, Apple Home Kit und Matter kann sie einfach in Ihr bestehendes Smart-Home-System integriert werden.\n\nDas Produkt unterst\u00fctzt verschiedene Kommunikationsprotokolle wie Z-WAVE, THREAD, ZIGBEE und BLUETOOTH, um sicherzustellen, dass sie mit Ihrem System kompatibel ist. Dar\u00fcber hinaus bietet das Thermostat eine Vielzahl an Funktionen, darunter lokale Betriebsweise, Benutzungsberichte, Energieeinsparungstipps, Geofencing und einen Touch-Bildschirm.\n\nDie Heizung selbst hat eine blaue Farbe und eine quadratische Form. F\u00fcr die Installation wird entweder ein C-Wire oder ein Adapter erforderlich sein. Optional kann auch ein separater Temperatursensor f\u00fcr Remote-\u00dcberwachung hinzugekauft werden, da der Thermostat selbst nicht mit Batterien betrieben wird.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Matter",
+        "Hubitat",
+        "IFTTT",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "color": "BLUE",
+      "shape": "SQUARE",
+      "features": [
+        "LOCAL_ONLY",
+        "USAGE_REPORTS",
+        "ENERGY_SAVING_TIPS",
+        "GEOFENCING",
+        "TOUCH_SCREEN",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "REQUIRES_C_WIRE_OR_ADAPTER",
+      "remote_temperature_sensor": "AVAILABLE_AS_ADD_ON",
+      "replaceable_batteries": "WIRED"
+    }
+  },
+  {
+    "product_no": "1100000044",
+    "product_type": "SmartThermostat",
+    "name": "Orbital Home SmartThermostat Generation 1 Blue Edition",
+    "brand": "Orbital Home",
+    "price": 80.0,
+    "description": "Der Orbital Home SmartThermostat Generation 1 Blue Edition ist ein intelligentes Heizungssystem, das Ihren Wohnraum optimal auf Ihre Bed\u00fcrfnisse anpasst. Mit der Unterst\u00fctzung durch Apple Home Kit, Matter, IFTTT und SmartThings k\u00f6nnen Sie Ihr Zuhause noch komfortabler gestalten und Ihre Energiekosten reduzieren.\n\nDank seiner vielf\u00e4ltigen Kommunikationsprotokolle wie THREAD, MATTER und BLUETOOTH ist eine sichere Verbindung jederzeit gew\u00e4hrleistet. Die robuste Oberfl\u00e4che mit einem quadratischen Design und die einfache Bedienung \u00fcber das Touch-Screen oder den physischen Dial machen ihn zu einem stilvollen Zugest\u00e4ndnis an Komfort.\n\nBesonders auff\u00e4llig ist die Integration von Energie-Spar-Tipps, die Sie dabei unterst\u00fctzen, Ihre Heizkosten effizienter zu gestalten. Zudem beinhaltet der Lieferumfang einen Adapter f\u00fcr eine einfache Verbindung, wodurch keine separaten Kabel erforderlich sind.\n\nDer SmartThermostat ist ein praktisches und umweltfreundliches Produkt von Orbital Home, das Ihren Haushalt sicher und effizient macht.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Matter",
+        "IFTTT",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "THREAD",
+        "MATTER",
+        "BLUETOOTH"
+      ],
+      "color": "BLUE",
+      "shape": "SQUARE",
+      "features": [
+        "PHYSICAL_DIAL",
+        "TOUCH_SCREEN",
+        "ENERGY_SAVING_TIPS"
+      ],
+      "cwire": "ADAPTER_INCLUDED",
+      "remote_temperature_sensor": "NOT_AVAILABLE",
+      "replaceable_batteries": "WIRED"
+    }
+  },
+  {
+    "product_no": "1100000045",
+    "product_type": "SmartThermostat",
+    "name": "SmartThermostat Pro XL",
+    "brand": "Hometics",
+    "price": 80.0,
+    "description": "Der Hometics SmartThermostat Pro XL ist ein fortschrittliches Heimautomatisierungssystem, das auf verschiedenen Plattformen wie Google Home und Alexa kompatibel ist. Mit einer Vielzahl von Kommunikationsprotokollen wie Z-WAVE, THREAD, WIFI, ZIGBEE und BLUETOOTH bietet es eine flexible Einbindung in bestehende Smart-Home-Anlagen.\n\nDas Design des Thermostats ist aufger\u00e4umt und ansprechend mit seiner runden Quadratform. Die Farbe schwarz passt sich ideal zu modernen Innenarchitekturen an. Der User kann zwischen verschiedenen Funktionen w\u00e4hlen, darunter Energieeinsparungstipps, geografische Zonenfunktion und die M\u00f6glichkeit, das Ger\u00e4t \u00fcber einen Touchscreen oder physische Tasten zu bedienen.\n\nEine besondere Note setzt der integrierte Luftqualit\u00e4tsensor. Dieser liefert wertvolle Daten zum Luftzustand in der Wohnung und erm\u00f6glicht eine individuelle Anpassung der Heiz- und L\u00fcftungsanlagen an die tats\u00e4chlichen Bed\u00fcrfnisse des Haushalts.\n\nDer Hometics SmartThermostat Pro XL ist ein effektives Werkzeug f\u00fcr die optimale Regulierung von Beleuchtung, Temperatur und Luftqualit\u00e4t in Ihrem Zuhause.",
+    "classification": {
+      "platforms": [
+        "Google Home",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "WIFI",
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "color": "BLACK",
+      "shape": "ROUNDED_SQUARE",
+      "features": [
+        "ENERGY_SAVING_TIPS",
+        "GEOFENCING",
+        "PHYSICAL_BUTTONS",
+        "TOUCH_SCREEN",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "REQUIRES_C_WIRE_OR_ADAPTER",
+      "remote_temperature_sensor": "AVAILABLE_AS_ADD_ON",
+      "replaceable_batteries": "AAA_X3"
+    }
+  },
+  {
+    "product_no": "1100000046",
+    "product_type": "SmartThermostat",
+    "name": "CasaCore Oval Touch \n\nHinweis: Der Produkttitel ist eine Kombination des Namens der Marke (CasaCore) mit einer Beschreibung des Produkts. Die Wahl von \"Oval\" und \"Touch\" basiert auf den Eigenschaften des Produkts, wie z.B. seiner Form (shape = \"OVAL\") und einem m\u00f6glichen Eingabemethoden f\u00fcr die Steuerung (features enth\u00e4lt \"TOUCH_SCREEN\").",
+    "brand": "CasaCore",
+    "price": 99.99,
+    "description": "Der CasaCore Oval Touch ist ein intelligenter Thermostat von CasaCore, der Ihren Heimbereich perfekt temperieren kann. Dank seiner modernen Oberfl\u00e4che k\u00f6nnen Sie ihn leicht und einfach \u00fcber den Touch-Bildschirm bedienen. Der SmartThermostat ist mit verschiedenen Plattformen kompatibel, wie Home Assistant, IFTTT, Alexa oder Tuya, und verwendet das ZIGBEE-Kommunikationsprotokoll f\u00fcr eine zuverl\u00e4ssige Verbindung. Mit seiner ovalen Form passt er sich nahtlos in Ihr modernes Design ein und l\u00e4sst Ihren Raum noch attraktiver erscheinen. Der Oval Touch bietet au\u00dferdem eine Vielzahl an Funktionen, darunter die \u00dcberwachung des Luftqualit\u00e4tswertes sowie Energie-Spar-Tipps, um Ihre Heizkosten weiter zu senken. Bei Bedarf k\u00f6nnen Sie sogar einen separaten Temperatursensor in Ihren Raum aufstellen. Einzigartig: Der CasaCore Oval Touch ist wahlweise mit oder ohne Batterie ausgestattet und passt sich so optimal an Ihre Bed\u00fcrfnisse an.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "IFTTT",
+        "Alexa",
+        "Tuya"
+      ],
+      "communication_protocol": [
+        "ZIGBEE"
+      ],
+      "color": "WHITE",
+      "shape": "OVAL",
+      "features": [
+        "TOUCH_SCREEN",
+        "OPEN_API",
+        "ENERGY_SAVING_TIPS",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "NOT_REQUIRED",
+      "remote_temperature_sensor": "AVAILABLE_AS_ADD_ON",
+      "replaceable_batteries": "WIRED"
+    }
+  },
+  {
+    "product_no": "1100000047",
+    "product_type": "SmartThermostat",
+    "name": "Orbital Blue RECT 5.0",
+    "brand": "Orbital Home",
+    "price": 250.0,
+    "description": "Das Orbital Blue RECT 5.0 ist ein hochmoderner Smart-Thermometer von der renommierten Marke Orbital Home. Mit seiner eleganten Rechteckform und dem einzigartigen Blau-Ton ist es nicht nur eine echte Augenwecker, sondern auch ein zuverl\u00e4ssiger Assistent f\u00fcr Ihre Heiz- und K\u00fchlsysteme.\n\nVerf\u00fcgbar auf verschiedenen Plattformen wie Home Assistant, Google Home, IFTTT und Hubitat kann das Produkt problemlos integriert werden. Durch den Einsatz moderner Kommunikationsprotokolle wie Z-WAVE, WIFI oder ZIGBEE garantiert die stabile Verbindung und sichere Daten\u00fcbertragung.\n\nDas Herzst\u00fcck des Produkts ist seine F\u00fclle an Funktionen, darunter lokale Betriebsweise, benutzerfreundliche Energieberichte, hilfreiche Energieeinspar-Tipps sowie Geofencing- und Touch-Screen-Funktionen. Nat\u00fcrlich bietet das Produkt auch die M\u00f6glichkeit, wichtige Informationen direkt auf einem Display zu sehen.\n\nDas Orbital Blue RECT 5.0 ben\u00f6tigt keine zentrale Leitung (cwire) zum Betrieb und verf\u00fcgt \u00fcber eine batteriebetriebene Ausf\u00fchrung mit 3 \"AAA\"-Batterien. \n\nDurch seine herausragende Funktionalit\u00e4t, sein beeindruckendes Design und die Vielzahl an Verbindungsm\u00f6glichkeiten, ist das Orbital Blue RECT 5.0 ein idealer Partner f\u00fcr jeden Heimnutzer.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Google Home",
+        "IFTTT",
+        "Hubitat"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "ZIGBEE"
+      ],
+      "color": "BLUE",
+      "shape": "RECTANGLE",
+      "features": [
+        "LOCAL_ONLY",
+        "USAGE_REPORTS",
+        "ENERGY_SAVING_TIPS",
+        "GEOFENCING",
+        "PHYSICAL_BUTTONS",
+        "TOUCH_SCREEN"
+      ],
+      "cwire": "NOT_REQUIRED",
+      "remote_temperature_sensor": "NOT_AVAILABLE",
+      "replaceable_batteries": "AAA_X3"
+    }
+  },
+  {
+    "product_no": "1100000048",
+    "product_type": "SmartThermostat",
+    "name": "SmartThermostat Orbit",
+    "brand": "Orbital Home",
+    "price": 133.99,
+    "description": "Der SmartThermostat Orbit von Orbital Home bietet eine umfassende Steuerung Ihres Heims, dank seiner Verbindung zu verschiedenen Plattformen wie Hubitat, IFTTT und Alexa. Der Thermostat verf\u00fcgt \u00fcber ein vielf\u00e4ltiges Repertoire an Funktionen, darunter die M\u00f6glichkeit, Benutzungsberichte zu erstellen sowie geografische Einschr\u00e4nkungen f\u00fcr Heiz- und K\u00fchlzonen zu aktivieren.\n\nDas Produkt unterst\u00fctzt verschiedene Kommunikationsprotokolle wie WLAN, Matter, Thread und Bluetooth. Die Ger\u00e4te k\u00f6nnen auf Oval-Shapes ausgelegt sein und stehen in der Farbe Wei\u00df zur Verf\u00fcgung. Der SmartThermostat verf\u00fcgt \u00fcber eine lokale Schnittstelle, erlaubt die Verwendung offener APIs und bietet die M\u00f6glichkeit zum Empfangen von Nutzungsinformationen. Des Weiteren wird Air-Qualit\u00e4t-Sensoren bereitgestellt.\n\nF\u00fcr das Funktionieren des Ger\u00e4tes ist es m\u00f6glich, dass eine C-Wire erforderlich ist, alternativ kann auch ein Adapter verwendet werden. Zus\u00e4tzlich k\u00f6nnen Temperatursensoren \u00fcber einen separaten Kauf angebunden werden. F\u00fcr die Energieversorgung stehen AA-X2 Batterien zur Verf\u00fcgung.\n\nDer SmartThermostat Orbit von Orbital Home stellt sicher, dass Ihr Zuhause mit einer effizienten und umfassenden Thermostateinrichtung ausgestattet ist, die verschiedene Funktionen f\u00fcr eine optimale Raumtemperatur erf\u00fcllt.",
+    "classification": {
+      "platforms": [
+        "Hubitat",
+        "IFTTT",
+        "Alexa",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "MATTER",
+        "THREAD",
+        "BLUETOOTH"
+      ],
+      "color": "WHITE",
+      "shape": "OVAL",
+      "features": [
+        "USAGE_REPORTS",
+        "LOCAL_ONLY",
+        "OPEN_API",
+        "GEOFENCING",
+        "TOUCH_SCREEN",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "REQUIRES_C_WIRE_OR_ADAPTER",
+      "remote_temperature_sensor": "AVAILABLE_AS_ADD_ON",
+      "replaceable_batteries": "AA_X2"
+    }
+  },
+  {
+    "product_no": "1100000049",
+    "product_type": "SmartThermostat",
+    "name": "CasaCore SmartThermostat Generation 1: Silber, intelligent durchdrungen.",
+    "brand": "CasaCore",
+    "price": 80.0,
+    "description": "Der CasaCore SmartThermostat Generation 1, ausgestattet mit einem eleganten Silberdesign und einer runden Quadrate Form, ist ein intelligentes Heizungssystem, das perfekt f\u00fcr eine energieeffiziente Raumbehandlung geeignet ist. Dank seiner Vielseitigkeit kann er auf verschiedenen Plattformen wie Home Assistant, SmartThings, Hubitat und Apple Home Kit eingesetzt werden.\n\nMit seiner Unterst\u00fctzung von fortschrittlichen Kommunikationsprotokollen wie Z-WAVE, WIFI, ZIGBEE und BLUETOOTH bietet der Thermostat eine flexiblen Anpassung an unterschiedliche Ger\u00e4tekompatibilit\u00e4t. Die Integration mit Smart-Home-Systemen erm\u00f6glicht eine reibungslose Kommunikation zwischen verschiedenen Ger\u00e4ten.\n\nEin besonderer Vorteil des CasaCore SmartThermostaten ist seine umfangreiche Funktionalit\u00e4t, die aus Funktionen wie Benutzungsberichten, offener API, geografischer Eind\u00e4mmung, einem physischen Drehknopf und physischen Taste besteht. Dar\u00fcber hinaus bietet er einen Touch-Bildschirm sowie einen Luftqualit\u00e4tsensor, der eine umfassende Kontrolle des Raumklimas erm\u00f6glicht.\n\nF\u00fcr die Einrichtung ist ein Adapter f\u00fcr Kabel einschlie\u00dflich und das Ger\u00e4t verf\u00fcgt auch \u00fcber einen eingebauten Temperatursensor. Der Energiebedarf wird unterst\u00fctzt durch Austauschbatterien, insbesondere 4 AA-Batterien.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "SmartThings",
+        "Hubitat",
+        "Apple Home Kit"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI",
+        "ZIGBEE",
+        "BLUETOOTH"
+      ],
+      "color": "SILVER",
+      "shape": "ROUNDED_SQUARE",
+      "features": [
+        "USAGE_REPORTS",
+        "OPEN_API",
+        "GEOFENCING",
+        "PHYSICAL_DIAL",
+        "PHYSICAL_BUTTONS",
+        "TOUCH_SCREEN",
+        "AIR_QUALITY_SENSOR"
+      ],
+      "cwire": "ADAPTER_INCLUDED",
+      "remote_temperature_sensor": "INCLUDED",
+      "replaceable_batteries": "AA_X4"
+    }
+  },
+  {
+    "product_no": "1100000050",
+    "product_type": "SmartHub",
+    "name": "Hub Generation: Connecta S",
+    "brand": "Hometics",
+    "price": 190.0,
+    "description": "Das Hometics Connecta S - Hub Generation ist ein intelligentes Zentralger\u00e4t, das es erm\u00f6glicht, verschiedene Smart-Home-Ger\u00e4te miteinander zu verbinden. Es unterst\u00fctzt eine Vielzahl von Plattformen wie IFTTT und SmartThings sowie fortschrittliche Kommunikationsprotokolle wie Z-WAVE, THREAD und MATTER. Ein besonderes Highlight ist die integrierte Farbbildschirmeinheit, also eine \"SCREEN\" f\u00fcr ein visuelles Feedback.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD",
+        "MATTER"
+      ],
+      "features": [
+        "SCREEN"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000051",
+    "product_type": "SmartHub",
+    "name": "FerroSync Connect Hub Edition 3.0",
+    "brand": "FerroSync",
+    "price": 155.0,
+    "description": "Das FerroSync Connect Hub Edition 3.0 von FerroSync ist ein intelligentes Gateway, das es Ihnen erm\u00f6glicht, Ihre Ger\u00e4te aus verschiedenen Plattformen wie Home Assistant, Tuya und Alexa zu verbinden und \u00fcber einen einfacheren Weg zu steuern. Mit dem Matter-Protokoll bietet es eine sichere und stromsparende Kommunikation zwischen Ihren Ger\u00e4ten. Dar\u00fcber hinaus unterst\u00fctzt es Bluetooth f\u00fcr die Verbindung von Smartphones oder Tablets. Ein weiteres Highlight ist der integrierte Lautsprecher, der Ihre Stimme oder Musik \u00fcber alle verbundenen Ger\u00e4te streamt, was perfekt f\u00fcr eine kabellose Audio-\u00dcbertragung ist.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Tuya",
+        "Alexa",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "ZIGBEE",
+        "MATTER",
+        "BLUETOOTH"
+      ],
+      "features": [
+        "SPEAKER"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000052",
+    "product_type": "SmartHub",
+    "name": "SmartHub Revolution",
+    "brand": "CasaCore",
+    "price": 55.0,
+    "description": "Der CasaCore SmartHub Revolution ist eine intelligente L\u00f6sung f\u00fcr Ihr Zuhause. Mit der Unterst\u00fctzung von Tuya, Alexa und Apple Home Kit k\u00f6nnen Sie Ihre Ger\u00e4te leicht \u00fcber diese Plattformen steuern. Der Hub verf\u00fcgt \u00fcber eine schnelle Kommunikation per WIFI und Bluetooth. Ein integriertes Speaker erm\u00f6glicht eine direkte Sprachsteuerung. Die CasaCore L\u00f6sungen bieten Ihnen eine komfortable und sichere Steuerung ihrer Ger\u00e4te in ihrem Zuhause. Mit dem SmartHub Revolution k\u00f6nnen Sie Ihre smarten L\u00f6sungen optimal nutzen.",
+    "classification": {
+      "platforms": [
+        "Tuya",
+        "Alexa",
+        "Apple Home Kit"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "BLUETOOTH"
+      ],
+      "features": [
+        "SPEAKER"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000053",
+    "product_type": "SmartHub",
+    "name": "Orbital Connect Hub V1",
+    "brand": "Orbital Home",
+    "price": 100.0,
+    "description": "Das Orbital Connect Hub V1 ist ein Produkt der Firma Orbital Home. Es handelt sich um eine SmartHub, die verschiedene Anwendungen erm\u00f6glicht. So kann man mit dem Orbital Connect Hub V1 Produkte aus den Plattformen Tuya, SmartThings, Alexa und Matter steuern. Die Kommunikation zwischen Ger\u00e4ten erfolgt \u00fcber Z-WAVE, MATTER oder BLUETOOTH. Au\u00dferdem bietet der Hub ein integriertes Speaker-System an.",
+    "classification": {
+      "platforms": [
+        "Tuya",
+        "SmartThings",
+        "Alexa",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "MATTER",
+        "BLUETOOTH"
+      ],
+      "features": [
+        "SPEAKER"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000054",
+    "product_type": "SmartHub",
+    "name": "Orbital Home SmartHub GEN 1: Multi-Plattform-Kompatibilit\u00e4t",
+    "brand": "Orbital Home",
+    "price": 190.0,
+    "description": "Das Orbital Home SmartHub GEN 1 ist ein innovatives Produkt von Orbital Home, das es Ihnen erm\u00f6glicht, Ihre Ger\u00e4te sicher und effizient zu verwalten. Mit seiner Multi-Plattform-Kompatibilit\u00e4t unterst\u00fctzt es die wichtigsten Plattformen wie IFTTT, SmartThings, Hubitat und Matter, um eine nahtlose Integration in Ihr bestehendes Smart-Home-System zu gew\u00e4hrleisten.\n\nSeine Kommunikationsprotokolle THREAD, ZIGBEE und MATTER sorgen f\u00fcr einen stabilen und sicheren Daten\u00fcbertragungsprozess, w\u00e4hrend die integrierte SCREEN-Funktion eine einfache \u00dcberwachung und Steuerung Ihrer Ger\u00e4te erm\u00f6glicht.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "SmartThings",
+        "Hubitat",
+        "Matter"
+      ],
+      "communication_protocol": [
+        "THREAD",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "features": [
+        "SCREEN"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000055",
+    "product_type": "SmartHub",
+    "name": "IntelliConnect Hub Pro",
+    "brand": "Hometics",
+    "price": 55.0,
+    "description": "Der IntelliConnect Hub Pro von Hometics ist ein intelligenter Steuerzentralpunkt, der Ihre smarten Heimbewohner aus verschiedenen Plattformen wie Home Assistant, Apple Home Kit und Matter vereint. Dank seiner Unterst\u00fctzung f\u00fcr IFTTT und SmartThings erm\u00f6glicht er eine nahtlose Integration in Ihr bestehendes Smart-Home-System. Die Kommunikation mit Ihren Ger\u00e4ten erfolgt \u00fcber die sicheren Protokolle Z-WAVE und THREAD. Ein weiterer Vorteil ist die verbaute Speaker-Funktion, die Ihnen erm\u00f6glicht, Sprachkommandos zu erteilen oder wichtige Informationen anzuh\u00f6ren. Mit einem Preis von 55,00 \u20ac bietet der IntelliConnect Hub Pro eine preisw\u00fcrdige M\u00f6glichkeit, Ihr Smart-Home auf h\u00f6chstem Niveau auszustatten.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Apple Home Kit",
+        "Matter",
+        "IFTTT",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "THREAD"
+      ],
+      "features": [
+        "SPEAKER"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000056",
+    "product_type": "SmartHub",
+    "name": "\"IntelliLink X1 Hubitat Edition\"",
+    "brand": "Intuit Home",
+    "price": 190.0,
+    "description": "Das Intellilink X1 Hubitat Edition ist ein intelligenter Hub von Intuit Home, der Ihre Smart-Home-Systeme mit Leichtigkeit verwaltet. Mit seiner Vielzahl an Kompatibilit\u00e4t unterst\u00fctzt er sowohl Apple Home Kit als auch Google Home, Tuya und viele weitere Plattformen wie SmartThings und IFTTT. Durch die Verwendung der modernsten Kommunikationsprotokolle, einschlie\u00dflich THREAD, ZIGBEE und MATTER, gew\u00e4hrleistet der Hub eine sichere und zuverl\u00e4ssige Daten\u00fcbertragung. Dank seiner integrierten Speaker-Funktion k\u00f6nnen Sie Ihre Smart-Home-Ger\u00e4te mit einfachen Sprachbefehlen steuern. Mit dem Intellilink X1 Hubitat Edition k\u00f6nnen Sie Ihr Zuhause noch intelligent und komfortabel gestalten als bisher m\u00f6glich war.",
+    "classification": {
+      "platforms": [
+        "Apple Home Kit",
+        "Tuya",
+        "Hubitat",
+        "Google Home",
+        "IFTTT",
+        "SmartThings",
+        "Alexa"
+      ],
+      "communication_protocol": [
+        "THREAD",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "features": [
+        "SPEAKER"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000057",
+    "product_type": "SmartHub",
+    "name": "SmartCore Gen 3",
+    "brand": "CasaCore",
+    "price": 55.0,
+    "description": "Der SmartCore Gen 3 von CasaCore ist ein intelligentes Hub-System, das verschiedene Funktionen und Protokolle unterst\u00fctzt. Mit diesem System k\u00f6nnen Sie Ihre smarten Ger\u00e4te leicht verwalten und integrieren.\n\nDie Unterst\u00fctzung f\u00fcr IFTTT, Hubitat und Apple Home Kit erm\u00f6glicht eine einfache Integration in bestehende Smart-Home-Suiten. Dar\u00fcber hinaus unterst\u00fctzt der SmartCore Gen 3 auch WIFI, ZIGBEE und THREAD als Kommunikationsprotokolle, um die Anpassungsf\u00e4higkeit an unterschiedliche Systeme sicherzustellen.\n\nZu den herausragenden Funktionen des SmartCore Gen 3 geh\u00f6ren ein integrierter Speaker und eine Bildschirmeinheit, die es Ihnen erm\u00f6glicht, Ihre smarten Ger\u00e4te visuell zu steuern und Informationen in Echtzeit anzuzeigen.",
+    "classification": {
+      "platforms": [
+        "IFTTT",
+        "Hubitat",
+        "Apple Home Kit"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "ZIGBEE",
+        "THREAD"
+      ],
+      "features": [
+        "SPEAKER",
+        "SCREEN"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000058",
+    "product_type": "SmartHub",
+    "name": "Hometics Connect Hub 2.0",
+    "brand": "Hometics",
+    "price": 190.0,
+    "description": "Das Hometics Connect Hub 2.0 von Hometics ist ein intelligentes Zentralger\u00e4t, das perfekt f\u00fcr eine smarte Heimsicherheit geeignet ist. Es unterst\u00fctzt verschiedene Plattformen wie Matter, Hubitat, Google Home und SmartThings, um Ihren Ger\u00e4ten einfach Zugang zu den vielen Vorteilen der smarten Technologie zu verschaffen.\n\nMit seinem vielf\u00e4ltigen Kommunikationsprotokollen wie WIFI, THREAD, BLUETOOTH und ZIGBEE kann das Hub 2.0 mit Ihren Ger\u00e4ten verbunden werden. Es bietet au\u00dferdem eine Vielzahl an Funktionen, darunter einen integrierten Lautsprecher und ein Bildschirm, um alle wichtigen Informationen direkt auf Ihrem Ger\u00e4t zu sehen.\n\nDas Hometics Connect Hub 2.0 ist das perfekte Zentralger\u00e4t f\u00fcr Ihre smarte Heimsicherheit. Mit seiner Vielzahl an Funktionen und der Unterst\u00fctzung verschiedener Plattformen ist es einfach, Ihren Ger\u00e4ten Zugriff zu verschaffen und Ihre Sicherheit und Komfort in Ihrer Wohnung zu erh\u00f6hen.",
+    "classification": {
+      "platforms": [
+        "Matter",
+        "Hubitat",
+        "Google Home",
+        "IFTTT",
+        "SmartThings"
+      ],
+      "communication_protocol": [
+        "WIFI",
+        "THREAD",
+        "BLUETOOTH",
+        "ZIGBEE",
+        "MATTER"
+      ],
+      "features": [
+        "SPEAKER",
+        "SCREEN"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000059",
+    "product_type": "SmartHub",
+    "name": "SmartConnect Hub",
+    "brand": "Intuit Home",
+    "price": 155.0,
+    "description": "Das Intuit Home SmartConnect Hub bietet eine einfache und effiziente M\u00f6glichkeit, Ihre smarten Ger\u00e4te zu verwalten. Durch die Unterst\u00fctzung von Home Assistant, Tuya und Hubitat k\u00f6nnen Sie alle Ihre Ger\u00e4te an einem Ort \u00fcberwachen und steuern. Das Hub verwendet die Kommunikationsprotokolle Z-WAVE und WIFI, um sicherzustellen, dass Ihre Daten gesch\u00fctzt bleiben. Ein weiterer Vorteil ist die integrierte Sprachfunktion, die es Ihnen erm\u00f6glicht, komfortabel von Ihrem Sofa aus auf Ihre Ger\u00e4te zuzugreifen.",
+    "classification": {
+      "platforms": [
+        "Home Assistant",
+        "Tuya",
+        "Hubitat"
+      ],
+      "communication_protocol": [
+        "Z_WAVE",
+        "WIFI"
+      ],
+      "features": [
+        "SPEAKER"
+      ]
+    }
+  },
+  {
+    "product_no": "1100000060",
+    "product_type": "VacuumRobot",
+    "name": "FerroSync Pro 3.0 - Roboterst\u00e4rke mit Zukunftsgeschwindigkeit",
+    "brand": "FerroSync",
+    "price": 1000.0,
+    "description": "Das FerroSync Pro 3.0 - Roboterst\u00e4rke mit Zukunftsgeschwindigkeit ist ein fortschrittlicher Vakuumrobot des Herstellers FerroSync. Mit einer unglaublichen Sogkraft von 3000 Pa erm\u00f6glicht er eine effektive Reinigung Ihres Zuhause, einschlie\u00dflich hartn\u00e4ckiger Staubpartikel und anderen Ablagerungen.\n\nDer FerroSync Pro 3.0 ist mit einer Vielzahl innovativer Funktionen ausgestattet, darunter Seitenb\u00fcrsten, ein Mop-System und eine selbstreinigende B\u00fcrstenrolle zur langfristigen Erhaltung von Reinigungseffizienz. Diese Hardwaremerkmale stellen sicher, dass Ihr Zuhause kontinuierlich sauber bleibt.\n\nDar\u00fcber hinaus verf\u00fcgt der FerroSync Pro 3.0 \u00fcber fortschrittliche Softwarefunktionen wie die Kollisionsvermeidung, um sicherzustellen, dass er sich selbst und andere Hindernisse im Raum vermieden.",
+    "classification": {
+      "suction_strength": 3000,
+      "hardware_features": [
+        "SIDE_BRUSHES",
+        "MOP",
+        "SELF_CLEANING_BRUSH_ROLL"
+      ],
+      "software_features": [
+        "OBSTACLE_AVOIDANCE"
+      ],
+      "dock": "NOT_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000061",
+    "product_type": "VacuumRobot",
+    "name": "IntelliClean R2 Mop Edition",
+    "brand": "Hometics",
+    "price": 400.0,
+    "description": "Das Hometics IntelliClean R2 Mop Edition ist ein fortschrittlicher Staubsauger-Roboter, der Ihre Reinigungsprozesse mit moderner Technologie erleichtern soll. Mit einer Sogkraft von 2000 Pa kann er effizient Staub und Schmutz aufnehmen und dank seiner MOP-Funktion sogar B\u00f6den wie Holz- oder Steinb\u00f6den sauber halten.\n\nDer Roboter verf\u00fcgt \u00fcber fortschrittliche Hardware, darunter die LI-DAR-Laserscanner-Technologie, mit der er seine Umgebung genau kartiert und sich so sicher durch den Raum bewegt. Auch bei der Vermeidung von Hindernissen unterst\u00fctzt ihn ein leistungsf\u00e4higes Software-System, das unter anderem eine intelligente Hindernisvermeidung (OBSTACLE_AVOIDANCE) erm\u00f6glicht.\n\nMit der M\u00f6glichkeit, spezifische Reinigungszone zu definieren, k\u00f6nnen Sie den Roboter genau auf die Gebiete ausrichten, an denen er arbeiten soll. Der komfortable Docking-Station ist bereits im Lieferumfang enthalten und bietet eine sichere Stelle f\u00fcr die Ladung des Ger\u00e4ts. Durch seine Vielzahl von Funktionen und fortschrittlichen Technologien vereint der Hometics IntelliClean R2 Mop Edition Pr\u00e4zision, Effizienz und Komfort in einer einzigen Maschine.",
+    "classification": {
+      "suction_strength": 2000,
+      "hardware_features": [
+        "MOP",
+        "LI_DAR"
+      ],
+      "software_features": [
+        "OBSTACLE_AVOIDANCE",
+        "SPECIFY_CLEANING_ZONES"
+      ],
+      "dock": "DOCK_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000062",
+    "product_type": "VacuumRobot",
+    "name": "IntelliClean Pro 2023",
+    "brand": "CasaCore",
+    "price": 500.0,
+    "description": "Der CasaCore IntelliClean Pro 2023 ist ein leistungsstarker Vakuum-Roboter, der mit einer Sogkraft von 2000 Pa eine effektive Reinigung gew\u00e4hrleistet. Mit seinen innovativen Selbstreinigungsfunktionen f\u00fcr den Staubsauger- und Wischteller-Schlauch wird er zu einem perfekten Begleiter in Ihrem Zuhause. Durch die integrierte Hindernisvermeidung kann der Roboter sicher durch R\u00e4ume navigieren, ohne sich selbst oder andere Gegenst\u00e4nde zu besch\u00e4digen. Der CasaCore IntelliClean Pro 2023 bietet eine komfortable und effektive Reinigungsl\u00f6sung f\u00fcr jeden Tag.",
+    "classification": {
+      "suction_strength": 2000,
+      "hardware_features": [
+        "SELF_CLEANING_BRUSH_ROLL",
+        "SELF_CLEANING_MOP"
+      ],
+      "software_features": [
+        "OBSTACLE_AVOIDANCE"
+      ],
+      "dock": "NOT_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000063",
+    "product_type": "VacuumRobot",
+    "name": "Intuit Home X500: Starkes Saugsystem mit Smart-Zonen-Reinigung",
+    "brand": "Intuit Home",
+    "price": 1000.0,
+    "description": "Der Intuit Home X500 ist ein hochwertiger Vacuumrobot, der mit einem starken Saugsystem und intelligenter Zonenreinigung die Reinigung Ihres Hauses revolutioniert. Mit einer Sogst\u00e4rke von 2000 Pa erm\u00f6glicht er eine effektive Beseitigung von Staub und Schmutz auf allen Oberfl\u00e4chen. Der X500 verf\u00fcgt \u00fcber ein umfassendes Hardware-Paket, das ihn zu einem der fortschrittlichsten Reinigungsger\u00e4te macht: Neben zwei integrierten Seitenbesen zur optimalen Abdeckung von W\u00e4nden und Ecken besitzt er auch einen selbstreinigen Besenrolle und einen selbstreinigenden Teppich. Durch seine Software-Funktion \"Zonen-Reinigung\" erm\u00f6glicht der X500 eine gezielte Reinigung bestimmter Bereiche Ihres Hauses, so dass Sie genau wissen, wann welche Fl\u00e4chen gereinigt werden m\u00fcssen. Der Vacuumrobot ist au\u00dferdem mit einer Ladestation ausgestattet, die sicher und einfach seine Wiederaufladung erm\u00f6glicht. Mit seinem robusten Design und seinen innovativen Funktionen ist der Intuit Home X500 ein hervorragender Partner f\u00fcr eine saubere und effektive Hausreinigung.",
+    "classification": {
+      "suction_strength": 2000,
+      "hardware_features": [
+        "SIDE_BRUSHES",
+        "SELF_CLEANING_BRUSH_ROLL",
+        "SELF_CLEANING_MOP"
+      ],
+      "software_features": [
+        "SPECIFY_CLEANING_ZONES"
+      ],
+      "dock": "DOCK_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000064",
+    "product_type": "VacuumRobot",
+    "name": "\"SmartClean Pro Mop Edition\"",
+    "brand": "CasaCore",
+    "price": 500.0,
+    "description": "Der CasaCore SmartClean Pro Mop Edition ist ein vielseitiger Roboterstaubsauger, der sich perfekt in jeden Haushalt integriert. Mit seiner hohen Saugleistung von 2000 Pa kann er sogar hartn\u00e4ckige Staubpartikel und feine Dreckteile mit Leichtigkeit aufnehmen. Dar\u00fcber hinaus verf\u00fcgt er \u00fcber die innovative MOP-Funktion, um auch Bodenbel\u00e4ge wie Holz oder Stein sauber zu halten. Dank seiner LI-DAR-Sensoren kann der Roboter sogar Hindernisse vorhersehen und sich ihnen anpassen. Obwohl man ihn als einzelnes Ger\u00e4t nutzen kann, ist er durch seine Dockingstation vollst\u00e4ndig selbstnavigierend und \u00fcberwachbar. Mit einer leistungsstarken CPU kann dieser intelligente Staubsauger die Aufgaben schnell und zuverl\u00e4ssig meistern.",
+    "classification": {
+      "suction_strength": 2000,
+      "hardware_features": [
+        "MOP",
+        "LI_DAR"
+      ],
+      "software_features": [
+        "OBSTACLE_AVOIDANCE"
+      ],
+      "dock": "DOCK_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000065",
+    "product_type": "VacuumRobot",
+    "name": "Revolution\u00e4rer Saug-Assistent X5 Pro",
+    "brand": "CasaCore",
+    "price": 300.0,
+    "description": "Der CasaCore Revolution\u00e4rer Saug-Assistent X5 Pro ist ein hochentwickeltes Vakuumrobot, das sich perfekt f\u00fcr die modernen Haushaltsanforderungen eignet. Mit seiner beeindruckenden Sogkraft von 2700 Pa erm\u00f6glicht er eine effiziente und tiefgreifende Reinigung Ihrer Bodenschichten. Durch seine integrierte MOP-Funktion (Mikrofaser-Filter) erreicht es einen optimalen Saugeffekt, der sich besonders bei Hartbodenfl\u00e4chen auszahlt.\n\nErg\u00e4nzt wird das Produkt durch die fortschrittliche LI-DAR-Sensorik, die ein pr\u00e4zises Orientierungssystem bereitstellt und somit eine zuverl\u00e4ssige Navigation erm\u00f6glicht. Zudem bietet der CasaCore Revolution\u00e4rer Saug-Assistent X5 Pro mit \"SPECIFY_CLEANING_ZONES\" und \"HOME_MAPPING\" innovativen Software-Funktionen, die es Ihnen erm\u00f6glichen Ihre Reinigungsbed\u00fcrfnisse gezielt zu planen und durchzuf\u00fchren.\n\nF\u00fcr Kunden ohne Raum f\u00fcr einen Docking-Station bietet das Produkt eine flexible Einbindung in Ihren Alltagsrhythmus.",
+    "classification": {
+      "suction_strength": 2700,
+      "hardware_features": [
+        "MOP",
+        "LI_DAR"
+      ],
+      "software_features": [
+        "SPECIFY_CLEANING_ZONES",
+        "HOME_MAPPING"
+      ],
+      "dock": "NO_DOCK"
+    }
+  },
+  {
+    "product_no": "1100000066",
+    "product_type": "VacuumRobot",
+    "name": "Intuit Home Pro X - St\u00e4rkste Sogkraft f\u00fcr effektive Reinigung",
+    "brand": "Intuit Home",
+    "price": 400.0,
+    "description": "Der Intuit Home Pro X ist ein leistungsstarker Vacuumrobot von Intuit Home mit einer beeindruckenden Sogkraft von 5300, ideal f\u00fcr effektive Reinigungen. Er verf\u00fcgt \u00fcber SIDE_BRUSHES und LI-DAR-Hardware-Features sowie OBSTACLE_AVOIDANCE-Software-Funktionen. Ohne Anschlu\u00dfdokumentationsm\u00f6glichkeit ist der Intuit Home Pro X zu einem attraktiven Preis von 400,00 Euro erh\u00e4ltlich.",
+    "classification": {
+      "suction_strength": 5300,
+      "hardware_features": [
+        "SIDE_BRUSHES",
+        "LI_DAR"
+      ],
+      "software_features": [
+        "OBSTACLE_AVOIDANCE"
+      ],
+      "dock": "NO_DOCK"
+    }
+  },
+  {
+    "product_no": "1100000067",
+    "product_type": "VacuumRobot",
+    "name": "\"VibroClean Pro X5\"",
+    "brand": "FerroSync",
+    "price": 200.0,
+    "description": "Das VibroClean Pro X5 von FerroSync ist ein High-Tech-Vacuumroboter, der sich mit seiner St\u00e4rke und Pr\u00e4zision einen Namen gemacht hat. Mit einer Sogkraft von 5300 Pa garantiert er eine makellose Sauberkeit, auch auf harten Oberfl\u00e4chen.\n\nDer VibroClean Pro X5 ist mit einem MOP (Microfiber-B\u00fcrste) ausgestattet, der selbstreinigende B\u00fcrstenrollen und einen LiDAR-Sensor zum effizienten Reinigungserlebnis. Das Selbstreinigungssystem f\u00fcr die B\u00fcrsten rollt sich nach jedem Reinigungsbefehl automatisch selbst rein.\n\nMit seiner intelligenten Navigation-Software kann er das gesamte Haus erfassen, um einen optimalen Reinigungsplan zu erstellen und Hindernisse zu vermeiden. Mit der M\u00f6glichkeit, gezielt bestimmte Bereiche auszuw\u00e4hlen und zu reinigen, bietet der VibroClean Pro X5 eine hohe Flexibilit\u00e4t bei der Reinigung.\n\nDer Roboter ist mit einem Dock ausgestattet, das es ihm erm\u00f6glicht, sich selbst nach dem Reinigungsprozess zu laden, so dass er f\u00fcr den n\u00e4chsten Einsatz bereitsteht.",
+    "classification": {
+      "suction_strength": 5300,
+      "hardware_features": [
+        "MOP",
+        "SELF_CLEANING_BRUSH_ROLL",
+        "LI_DAR",
+        "SELF_CLEANING_MOP"
+      ],
+      "software_features": [
+        "OBSTACLE_AVOIDANCE",
+        "SPECIFY_CLEANING_ZONES",
+        "HOME_MAPPING"
+      ],
+      "dock": "DOCK_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000068",
+    "product_type": "VacuumRobot",
+    "name": "Intuit Home X5 Ultimate",
+    "brand": "Intuit Home",
+    "price": 1000.0,
+    "description": "Das Intuit Home X5 Ultimate ist ein High-End-Vakuumrobot von der Marke Intuit Home. Mit einer Sogkraft von 6000 Pa ist er in der Lage, auch schwierige Bodenbel\u00e4ge leicht zu reinigen. Dank seiner integrierten Selbstreinigungsfunktion kann sich der Roboter selbst nach jedem Reinigungsvorgang reinigen.\n\nEr verf\u00fcgt \u00fcber verschiedene Funktionen wie der M\u00f6glichkeit, Reinigungszone zu spezifizieren sowie eine Heimkartenfunktion. Au\u00dferdem vermeidet er Hindernisse auf seinem Weg.",
+    "classification": {
+      "suction_strength": 6000,
+      "hardware_features": [
+        "MOP",
+        "SELF_CLEANING_MOP"
+      ],
+      "software_features": [
+        "OBSTACLE_AVOIDANCE",
+        "SPECIFY_CLEANING_ZONES",
+        "HOME_MAPPING"
+      ],
+      "dock": "DOCK_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000069",
+    "product_type": "VacuumRobot",
+    "name": "PowerClean X5",
+    "brand": "FerroSync",
+    "price": 400.0,
+    "description": "Der PowerClean X5 von FerroSync ist ein hochwertiger Vakuumrobot, der sich durch seine effektiven Reinigungsf\u00e4higkeiten und vielf\u00e4ltigen Funktionen auszeichnet. Mit einer Sogkraft von 2000 Pa kann er selbst hartn\u00e4ckige Staubpartikel und Schmutzreste leicht entfernen.\n\nDer PowerClean X5 verf\u00fcgt \u00fcber eine Selbstreinigungsfunktion, die sicherstellt, dass das Ger\u00e4t auch nach langer Nutzung immer sauber bleibt. Dar\u00fcber hinaus ist ein Mop integriert, der sich f\u00fcr eine effektive Reinigung von B\u00f6den und Fl\u00e4chen eignet.\n\nDer PowerClean X5 bietet auch eine Vielzahl von Softwarefunktionen an, die den Nutzer unterst\u00fctzen. So k\u00f6nnen Sie gezielt bestimmte Reinigungsgebiete vorgeben oder ein genaues Layout Ihres Hauses erstellen lassen. Damit kann der Robot genau wissen, wo sich welche Bereiche befinden und entsprechend navigieren.\n\nDer PowerClean X5 von FerroSync wird komplett mit einem Dock geliefert, das den Robot einfach zum Aufladen erm\u00f6glicht.",
+    "classification": {
+      "suction_strength": 2000,
+      "hardware_features": [
+        "MOP",
+        "SELF_CLEANING_MOP"
+      ],
+      "software_features": [
+        "SPECIFY_CLEANING_ZONES",
+        "HOME_MAPPING"
+      ],
+      "dock": "DOCK_INCLUDED"
+    }
+  },
+  {
+    "product_no": "1100000070",
+    "product_type": "SolarPanel",
+    "name": "EcoPower X1 Solarpanel",
+    "brand": "Aurora Panel",
+    "price": 99.45,
+    "description": "Das Aurora Panel EcoPower X1 ist ein Solarpanel der neuen Generation mit exzellenten Leistungswerten. Mit einer L\u00e4nge von 195cm, einer H\u00f6he von 100cm und einer Breite von 40cm passt es sich perfekt in Ihre Dachlandschaft ein. Der maximal m\u00f6gliche Stromausgang liegt bei stolzen 300W, um Ihr eigenes Energiebed\u00fcrfnis sicher zu decken. Die geringe Gewichtszahl von lediglich 33kg macht den Transport und die Installation zum Kinderspiel. Mit diesem Solarpanel k\u00f6nnen Sie nicht nur Ihre Umwelt sch\u00fctzen, sondern auch Ihren Strompreis senken.",
+    "classification": {
+      "length": 1950,
+      "height": 1000,
+      "width": 40,
+      "max_power_output": 300,
+      "weight": 33.15
+    }
+  },
+  {
+    "product_no": "1100000071",
+    "product_type": "SolarPanel",
+    "name": "\"SolarTaktik XT-Gen2\"",
+    "brand": "SolarTuitive",
+    "price": 28.9,
+    "description": "Der SolarTaktik XT-Gen2 ist ein solares Panel der Marke SolarTuitive mit einer maximalen Leistung von 100 Watt. Es misst 1700 Millimeter in der L\u00e4nge, 1000 Millimeter in der H\u00f6he und nur 50 Millimeter in der Breite. Mit einem Gewicht von etwa 35,7 Kilogramm ist das Panel leicht ausreichend f\u00fcr viele Anwendungen.",
+    "classification": {
+      "length": 1700,
+      "height": 1000,
+      "width": 50,
+      "max_power_output": 100,
+      "weight": 35.7
+    }
+  },
+  {
+    "product_no": "1100000072",
+    "product_type": "SolarPanel",
+    "name": "\"EcoPower X3: Compact High-Performance\"",
+    "brand": "Yellow Dwarf Power",
+    "price": 91.8,
+    "description": "Der EcoPower X3 von Yellow Dwarf Power ist ein kompakter Solarpanel mit au\u00dfergew\u00f6hnlicher Leistung. Mit einer Breite von nur 30 Zentimetern bietet es eine ideale L\u00f6sung f\u00fcr die Einbindung in verschiedene Anwendungen, ob auf dem Dach oder im Garten. Der Panel hat eine Gr\u00f6\u00dfe von 1700 x 1500 Millimeter und ein Gewicht von etwa 43 Kilogramm. Die maximal m\u00f6gliche Leistung betr\u00e4gt 300 Watt und erm\u00f6glicht somit effizientes Energieeinspeisen in das Haushaltsnetzwerk oder in batteriegest\u00fctzte Stromversorgungssysteme. Durch die Verwendung hochwertiger Materialien gew\u00e4hrleistet Yellow Dwarf Power eine langfristige Lebensdauer des Panels und minimiert Abfallproduktion aufgrund von veralteten Technologien. Mit einem Preis von 91,80 Euro bietet der EcoPower X3 eine \u00fcberzeugende Alternative f\u00fcr alle Bedarfstr\u00e4ger nach einer umweltfreundlichen Energieerzeugung.",
+    "classification": {
+      "length": 1700,
+      "height": 1500,
+      "width": 30,
+      "max_power_output": 300,
+      "weight": 43.35
+    }
+  },
+  {
+    "product_no": "1100000073",
+    "product_type": "SolarPanel",
+    "name": "Effiziente Energie - Aurora Generation X",
+    "brand": "Aurora Panel",
+    "price": 119.34,
+    "description": "Das effiziente Energie-Produkt von Aurora Panel ist die Aurora Generation X. Diese SolarPanels sind perfekt f\u00fcr alle Anwender geeignet, die eine umweltfreundliche Energiequelle suchen. Mit einer maximalen Leistungsausgabe von 300 Watt und einer Gr\u00f6\u00dfe von 1950 mm x 1200 mm x 40 mm bietet der Aurora Generation X ein hohes Ma\u00df an Effizienz und Funktionalit\u00e4t. Die SolarPanels sind leicht mit nur 56,16 Kilogramm und k\u00f6nnen daher einfach in Ihre bestehende Stromversorgung integriert werden.",
+    "classification": {
+      "length": 1950,
+      "height": 1200,
+      "width": 40,
+      "max_power_output": 300,
+      "weight": 56.16
+    }
+  },
+  {
+    "product_no": "1100000074",
+    "product_type": "SolarPanel",
+    "name": "EffizienzMaximus S1",
+    "brand": "SolarTuitive",
+    "price": 50.4,
+    "description": "Das SolarPanel \"EffizienzMaximus S1\" von SolarTuitive ist ideal f\u00fcr die effektive Energieerzeugung zu jeder Jahreszeit geeignet. Mit einer Leistung von 300 Watt bietet es einen optimalen Wert-Leistungsverh\u00e4ltnis und kann dank seiner geringen Abmessungen von 1400 x 1000 x 50 mm leicht in jedem Garten oder auf dem Dach integriert werden. Der effiziente Designansatz des Modells sorgt au\u00dferdem daf\u00fcr, dass die Solarzellen einen hohen Stromertrag liefern und das Produkt trotz seiner geringen Gr\u00f6\u00dfe eine hohe Leistung erreicht. Dar\u00fcber hinaus ist der EffizienzMaximus S1 extrem leicht mit einem Gewicht von nur 23,8 kg, was auch den Transport in unbequemen Gassen erleichtert.",
+    "classification": {
+      "length": 1400,
+      "height": 1000,
+      "width": 50,
+      "max_power_output": 300,
+      "weight": 23.8
+    }
+  },
+  {
+    "product_no": "1100000075",
+    "product_type": "SolarPanel",
+    "name": "\"SolarTougeur GT1\"",
+    "brand": "SolarTuitive",
+    "price": 197.44,
+    "description": "Das SolarTougeur GT1 von SolarTuitive ist ein hochwertiger Solarpanel mit einer maximalen Leistungsausgangsleistung von 450 Watt. Seine Abmessungen betragen 1950 mm L\u00e4nge, 1500 mm Breite und eine geringe H\u00f6he von nur 50 mm. Mit einem Gewicht von etwa 67 kg ist der SolarTougeur GT1 leicht auszuf\u00fchren und perfekt f\u00fcr verschiedene Anwendungen geeignet.",
+    "classification": {
+      "length": 1950,
+      "height": 1500,
+      "width": 50,
+      "max_power_output": 450,
+      "weight": 67.27
+    }
+  },
+  {
+    "product_no": "1100000076",
+    "product_type": "SolarPanel",
+    "name": "\"PowerMax 4.5kW Flexibel 195x120 cm\"",
+    "brand": "Yellow Dwarf Power",
+    "price": 126.36,
+    "description": "Das Yellow Dwarf Power SolarPanel \"PowerMax 4.5kW Flexibel 195x120 cm\" bietet eine hohe Effizienz und Praktikabilit\u00e4t. Mit einer max. Leistung von 4,5 kW verf\u00fcgt das Panel \u00fcber eine geringe Breite von nur 40 Zentimetern. Die Abmessungen von 195 x 120 Zentimeter erm\u00f6glichen eine flexible Installation an verschiedenen Standorten. Der Wurf des Panels wiegt etwa 56,16 Kilogramm und ist daher leicht transportierbar und einfach zu installieren.",
+    "classification": {
+      "length": 1950,
+      "height": 1200,
+      "width": 40,
+      "max_power_output": 450,
+      "weight": 56.16
+    }
+  },
+  {
+    "product_no": "1100000077",
+    "product_type": "SolarPanel",
+    "name": "EcoPower Solar XL",
+    "brand": "SolarTuitive",
+    "price": 28.9,
+    "description": "Das EcoPower Solar XL ist ein hochleistungsf\u00e4higes Solarpanel der Marke SolarTuitive. Mit einer maximalen Leistung von 100 W bietet es eine effiziente M\u00f6glichkeit, Ihre Energiebed\u00fcrfnisse mit erneuerbarer Energie zu decken. Der kompakte Design mit Ma\u00dfen von 40 x 1000 x 1700 mm macht es ideal f\u00fcr verschiedene Anwendungen, von kleinen H\u00e4usern bis hin zu Campingzelten. Durch seinen geringen Gewicht von 27,2 kg ist das Solarpanel leicht und einfach zu transportieren. Mit einem attraktiven Preis von nur 28,90 \u20ac bietet das EcoPower Solar XL eine gro\u00dfartige Kombination aus Leistung und Wirtschaftlichkeit.",
+    "classification": {
+      "length": 1700,
+      "height": 1000,
+      "width": 40,
+      "max_power_output": 100,
+      "weight": 27.2
+    }
+  },
+  {
+    "product_no": "1100000078",
+    "product_type": "SolarPanel",
+    "name": "EffizienzMax 2",
+    "brand": "SolarTuitive",
+    "price": 156.06,
+    "description": "Das SolarPanel EffizienzMax 2 von SolarTuitive ist eine hochwertige L\u00f6sung f\u00fcr Ihre Energiebed\u00fcrfnisse. Mit einer maximalen Leistung von 450 Watt und einer effizienten Konstruktion sorgt es daf\u00fcr, dass Sie das Maximum aus Ihrer Sonnenenergie herausholen.\n\nDie Abmessungen des Panels betragen 1700 x 1200 Millimeter bei einer Breite von nur 50 Millimetern, was es zu einer idealen Wahl f\u00fcr verschiedene Anwendungen macht. Der geringe Gewicht von etwa 36,72 Kilogramm erm\u00f6glicht eine einfache Installation und Transport.\n\nMit dem EffizienzMax 2 von SolarTuitive haben Sie die Sicherheit einer sicheren und effizienten Energieversorgung.",
+    "classification": {
+      "length": 1700,
+      "height": 1200,
+      "width": 50,
+      "max_power_output": 450,
+      "weight": 36.72
+    }
+  },
+  {
+    "product_no": "1100000079",
+    "product_type": "SolarPanel",
+    "name": "EffizienzMAXX Pro S-Panel",
+    "brand": "Aurora Panel",
+    "price": 49.72,
+    "description": "Das EffizienzMAXX Pro S-Panel von Aurora Panel ist eine hochwertige Solarpaneleinheit mit atemberaubenden Leistungsdaten. Mit einer maximalen Nennleistung von 100 W und einem effizienten Design bietet dieses Produkt die beste L\u00f6sung f\u00fcr Ihre Energiebed\u00fcrfnisse.\n\nMit einer Breite von nur 40 cm ist das EffizienzMAXX Pro S-Panel eine elegante L\u00f6sung f\u00fcr den Dachanbau. Die kombinierte L\u00e4nge und H\u00f6he von 1950 bzw. 1500 mm sorgt daf\u00fcr, dass es problemlos in fast alle Dachkonstruktionen integriert werden kann.\n\nDer geringe Gewichtsunterschied von nur 46,8 kg macht es leicht zu handhaben und ideal f\u00fcr Einsteiger oder Profis gleicherma\u00dfen geeignet. Der faire Preis von 49,72 \u20ac unterstreicht die Wettbewerbsf\u00e4higkeit dieses Produkts auf dem Markt.",
+    "classification": {
+      "length": 1950,
+      "height": 1500,
+      "width": 40,
+      "max_power_output": 100,
+      "weight": 46.8
+    }
+  }
+]
